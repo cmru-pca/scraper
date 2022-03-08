@@ -2,12 +2,13 @@ import re
 import json
 import time
 import datetime
+from weakref import proxy
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-from webdriver_manager.utils import ChromeType
 from webdriver_manager.chrome import ChromeDriverManager
 
 
@@ -32,18 +33,26 @@ class Main(Log):
         options = [
             "--headless",
             "--disable-gpu",
-            "--window-size=1920,1200",
+            "--window-size=1420,1080",
             "--ignore-certificate-errors",
             "--disable-extensions",
             "--no-sandbox",
             "--disable-dev-shm-usage"
-            "--user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2"
-            "--proxy-server=91.243.35.205:80"
+            "user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2"
         ]
         for option in options:
             chrome_options.add_argument(option)
 
-        self.driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
+        proxy = "203.24.103.100:80" # IP:PORT or HOST:PORT
+
+        capabilities = dict(DesiredCapabilities.CHROME)
+        capabilities['proxy'] = {'proxyType': 'MANUAL','httpProxy': proxy,'ftpProxy': proxy,'sslProxy': proxy,'noProxy': '','class': "org.openqa.selenium.Proxy",'autodetect': False}
+
+
+        chrome_options.add_experimental_option("useAutomationExtension", False)
+        chrome_options.add_experimental_option("excludeSwitches", ['enable-automation'])
+
+        self.driver = webdriver.Chrome(service=chrome_service, options=chrome_options, desired_capabilities=capabilities)
         
     def get_like(self, id):
         value = self.driver.find_element(by=By.XPATH, value=f"//*[@id='like_sentence_{id}']").text
