@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
+from webdriver_manager.utils import ChromeType
 from webdriver_manager.chrome import ChromeDriverManager
 
 
@@ -23,27 +24,25 @@ class Log():
 
 class Main(Log):
     def __init__(self) -> None:        
+
+        chrome_service = Service(ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install())
+
+        chrome_options = webdriver.ChromeOptions();
+
+        options = [
+            "--headless",
+            "--disable-gpu",
+            "--window-size=1920,1200",
+            "--ignore-certificate-errors",
+            "--disable-extensions",
+            "--no-sandbox",
+            "--disable-dev-shm-usage"
+        ]
+        for option in options:
+            chrome_options.add_argument(option)
+
+        self.driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
         
-        options = webdriver.ChromeOptions();
-        options.headless = True
-        options.add_argument("--window-size=1920,1080")
-        options.add_argument("--disable-extensions")
-        options.add_argument("--proxy-server='direct://'")
-        options.add_argument("--proxy-bypass-list=*")
-        options.add_argument("--start-maximized")
-        options.add_argument('--headless')
-        options.add_argument('--disable-gpu')
-        options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--no-sandbox')
-        options.add_argument('--ignore-certificate-errors')
-
-        user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36'
-        options.add_argument(f'user-agent={user_agent}')
-
-        self.driver = webdriver.Chrome(service=Service(ChromeDriverManager(log_level=0).install()), options=options)
-        self.member_data = self.read_json("Member.json")
-
-
     def get_like(self, id):
         value = self.driver.find_element(by=By.XPATH, value=f"//*[@id='like_sentence_{id}']").text
         value_int = re.findall("\d+", value)[0]
@@ -60,6 +59,8 @@ class Main(Log):
         return (share * 5) + like
 
     def run(self):
+
+        self.member_data = self.read_json("Member.json")
         
         for i in self.member_data['data']:
             self.driver.get(i['url'])
