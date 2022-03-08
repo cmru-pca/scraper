@@ -29,8 +29,6 @@ class Main(Log):
 
         chrome_options = webdriver.ChromeOptions();
 
-        chrome_options.proxy = 
-
         options = [
             "--headless",
             "--disable-gpu",
