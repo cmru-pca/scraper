@@ -29,8 +29,10 @@ class Main(Log):
 
         chrome_options = webdriver.ChromeOptions();
 
+        chrome_options.proxy = 
+
         options = [
-            #"--headless",
+            "--headless",
             "--disable-gpu",
             "--window-size=1920,1200",
             "--ignore-certificate-errors",
@@ -38,6 +40,7 @@ class Main(Log):
             "--no-sandbox",
             "--disable-dev-shm-usage"
             "--user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2"
+            "--proxy-server=91.243.35.205:80"
         ]
         for option in options:
             chrome_options.add_argument(option)
