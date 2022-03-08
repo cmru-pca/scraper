@@ -24,6 +24,7 @@ class Main(Log):
     def __init__(self) -> None:        
         
         options = webdriver.ChromeOptions();
+        options.headless = True
         options.add_argument("--disable-logging")
         options.add_argument("--log-level=3")
         
