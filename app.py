@@ -80,6 +80,11 @@ class Main(Log):
 
         self.member_data = self.read_json("member.json")
         
+        self.driver.get("https://mobile.facebook.com/SciFreshy64/")
+
+        time.sleep(1)
+
+
         for i in self.member_data['data']:
             self.driver.get(i['url'])
             self.driver.implicitly_wait(30)
@@ -88,7 +93,7 @@ class Main(Log):
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
 
-            #print(self.driver.current_url)
+            print(self.driver.current_url)
 
             # get data value
             like = self.get_like(page_id)
