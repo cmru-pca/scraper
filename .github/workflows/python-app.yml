@@ -1,0 +1,43 @@
+name: PYTHON APP
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set TimeZone for Python environment
+      uses: szenius/set-timezone@v1.0
+      with:
+          timezoneLinux: 'Asia/Bangkok'
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8.9
+        
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
+
+    - name: Run app.py      
+      run: |
+        sudo python3 app.py
+
+    - name: Push to yourself
+      run: |
+        git diff
+        
+        git config --global user.email "notbarze@users.noreply.github.com"
+        git config --global user.name "narze's bot"
+
+        git add Data/Member.json
+        
+        git commit -m "Refresh Member.json :3" || exit 0
+        git push
