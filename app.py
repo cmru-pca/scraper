@@ -74,6 +74,8 @@ class Main(Log):
                 File.write(str(self.driver.page_source))
                 File.close()
 
+            break
+
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
 
