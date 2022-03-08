@@ -1,5 +1,6 @@
 import re
 import json
+import time
 import datetime
 
 from selenium import webdriver
@@ -31,6 +32,7 @@ class Main(Log):
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument("--headless");
         options.add_argument("--disable-gpu");
+        options.add_argument("--window-size=1920,1080");
 
         user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.50 Safari/537.36'
         options.add_argument(f'user-agent={user_agent}')
@@ -59,14 +61,18 @@ class Main(Log):
         for i in self.member_data['data']:
             self.driver.get(i['url'])
             self.driver.implicitly_wait(30)
+            time.sleep(0.5)
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
 
 
             # get data value
             like = self.get_like(page_id)
+            time.sleep(0.5)
             share = self.get_share(page_id)
+            time.sleep(0.5)
             point = self.get_point(like, share)
+            time.sleep(0.5)
 
 
 
