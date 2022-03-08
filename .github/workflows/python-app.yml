@@ -6,7 +6,7 @@ on:
     - cron: '0 */4 * * *'
 
 jobs:
-  build:
+  scrape:
 
     runs-on: ubuntu-latest
     steps:
@@ -38,6 +38,6 @@ jobs:
         git config --global user.name "sctnc bot"
 
         git add Data/Member.json
-        
+        git add screenshot.png
         git commit -m "Refresh Member.json :3" || exit 0
         git push
