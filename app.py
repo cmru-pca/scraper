@@ -60,7 +60,7 @@ class Main(Log):
 
     def run(self):
 
-        self.member_data = self.read_json("Member.json")
+        self.member_data = self.read_json("member.json")
         
         for i in self.member_data['data']:
             self.driver.get(i['url'])
@@ -100,7 +100,7 @@ class Main(Log):
         
 
         self.member_data['updated_at'] = str(datetime.datetime.now())
-        self.write_json("Member.json", self.member_data)
+        self.write_json("member.json", self.member_data)
         self.driver.close()
 
 if __name__ == "__main__":
