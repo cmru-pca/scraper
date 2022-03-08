@@ -72,6 +72,8 @@ class Main(Log):
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
 
+            print(self.driver.current_url)
+
             # get data value
             like = self.get_like(page_id)
             time.sleep(0.5)
