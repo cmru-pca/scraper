@@ -14,12 +14,12 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 class Log():
     def read_json(self, filename):
-        with open(f"./Data/{filename}",  encoding="utf-8", mode="r") as File:
+        with open(f"./data/{filename}",  encoding="utf-8", mode="r") as File:
             data = json.load(File)
         return data
 
     def write_json(self, filename, data):
-        with open(f"./Data/{filename}",  encoding="utf-8", mode="w") as File:
+        with open(f"./data/{filename}",  encoding="utf-8", mode="w") as File:
             File.write(json.dumps(data, ensure_ascii=False, indent=4))
 
 class Main(Log):
