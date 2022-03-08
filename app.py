@@ -67,7 +67,8 @@ class Main(Log):
             self.driver.implicitly_wait(30)
             time.sleep(0.5)
 
-            self.driver.save_screenshot("screenshot.png")
+
+            print(self.driver.page_source)
 
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
