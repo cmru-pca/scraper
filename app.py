@@ -44,16 +44,22 @@ class Main(Log):
         for option in options:
             chrome_options.add_argument(option)
 
-        proxy = "203.24.103.100:80" # IP:PORT or HOST:PORT
+        proxy = "187.190.252.248:999" # IP:PORT or HOST:PORT
 
-        capabilities = dict(DesiredCapabilities.CHROME)
-        capabilities['proxy'] = {'proxyType': 'MANUAL','httpProxy': proxy,'ftpProxy': proxy,'sslProxy': proxy,'noProxy': '','class': "org.openqa.selenium.Proxy",'autodetect': False}
+        webdriver.DesiredCapabilities.CHROME['proxy'] = {
+            "httpProxy": proxy,
+            "ftpProxy": proxy,
+            "sslProxy": proxy,
+            "proxyType": "MANUAL",
+        }
+
+        webdriver.DesiredCapabilities.CHROME['acceptSslCerts'] = True
 
 
         chrome_options.add_experimental_option("useAutomationExtension", False)
         chrome_options.add_experimental_option("excludeSwitches", ['enable-automation'])
 
-        self.driver = webdriver.Chrome(service=chrome_service, options=chrome_options, desired_capabilities=capabilities)
+        self.driver = webdriver.Chrome(service=chrome_service, options=chrome_options)
         
     def get_like(self, id):
         value = self.driver.find_element(by=By.XPATH, value=f"//*[@id='like_sentence_{id}']").text
@@ -82,7 +88,7 @@ class Main(Log):
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
 
-            print(self.driver.current_url)
+            #print(self.driver.current_url)
 
             # get data value
             like = self.get_like(page_id)
