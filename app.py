@@ -27,7 +27,9 @@ class Main(Log):
         options.headless = True
         options.add_argument("--disable-logging")
         options.add_argument("--log-level=3")
-        
+        options.add_argument('--no-sandbox')
+        options.add_argument('--disable-dev-shm-usage')
+
         self.driver = webdriver.Chrome(service=Service(ChromeDriverManager(log_level=0).install()), options=options)
         self.member_data = self.read_json("Member.json")
 
