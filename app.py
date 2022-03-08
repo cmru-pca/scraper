@@ -70,9 +70,12 @@ class Main(Log):
 
             print(self.driver.page_source)
 
+            with open("debug.html", "w+") as File:
+                File.write(str(self.driver.page_source))
+                File.close()
+
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
-
 
             # get data value
             like = self.get_like(page_id)
