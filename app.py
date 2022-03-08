@@ -9,8 +9,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-from webdriver_manager.chrome import ChromeDriverManager
 
+from webdriver_manager.utils import ChromeType
+from webdriver_manager.chrome import ChromeDriverManager
 
 
 class Log():
