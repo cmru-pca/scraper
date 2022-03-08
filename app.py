@@ -30,13 +30,14 @@ class Main(Log):
         chrome_options = webdriver.ChromeOptions();
 
         options = [
-            "--headless",
+            #"--headless",
             "--disable-gpu",
             "--window-size=1920,1200",
             "--ignore-certificate-errors",
             "--disable-extensions",
             "--no-sandbox",
             "--disable-dev-shm-usage"
+            "--user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2"
         ]
         for option in options:
             chrome_options.add_argument(option)
@@ -66,15 +67,6 @@ class Main(Log):
             self.driver.get(i['url'])
             self.driver.implicitly_wait(30)
             time.sleep(0.5)
-
-
-            print(self.driver.page_source)
-
-            with open("debug.html", "w+") as File:
-                File.write(str(self.driver.page_source))
-                File.close()
-
-            break
 
 
             page_id = i['url'].replace("https://m.facebook.com/photo.php?fbid=", "")
