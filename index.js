@@ -39,7 +39,6 @@ const main = async () => {
   for (let i of member_data["data"]) {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
-
     if (page.url().includes("login.php")) continue;
 
     let page_id = i["url"].replace(
