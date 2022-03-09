@@ -44,6 +44,8 @@ const main = async () => {
       ""
     );
 
+    console.log(page.url())
+
     let like = await get_like(page, page_id);
     let share = await get_share(page, page_id);
     let point = share * 5 + like;
