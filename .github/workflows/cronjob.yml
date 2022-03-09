@@ -1,0 +1,44 @@
+name: Node.js CronJob
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * ? * *'
+
+jobs:
+  cronjob:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [15.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    
+    - name: Get npm cache directory
+      id: npm-cache
+      run: |
+        echo "::set-output name=dir::$(npm config get cache)"
+    - uses: actions/cache@v1
+      with:
+        path: ${{ steps.npm-cache.outputs.dir }}
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+            
+    - run: npm run start
+    
+    - name: Commit and push if data.json changed
+      run: |-
+        git diff
+        git config --global user.email "sctnightcore@users.noreply.github.com"
+        git config --global user.name "sctnc's bot"
+        git add data/member.json
+        git commit -m "Refresh member.json" || exit 0
+        git push
