@@ -39,14 +39,14 @@ const main = async () => {
   for (let i of member_data["data"]) {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
+
+    if (page.url().includes("login.php")) continue;
+
     let page_id = i["url"].replace(
       "https://m.facebook.com/photo.php?fbid=",
       ""
     );
 
-    if ("https://m.facebook.com/login.php" in page.url()) {
-      continue;
-    }
 
     let like = await get_like(page, page_id);
     let share = await get_share(page, page_id);
