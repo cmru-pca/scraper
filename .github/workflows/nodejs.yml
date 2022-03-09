@@ -1,9 +1,9 @@
-name: Node.js CronJob
+name: Node.js CI
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * ? * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -32,13 +32,14 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-node-
             
+    - run: npm ci
     - run: npm run start
     
-    - name: Commit and push if data.json changed
+    - name: Commit and push if data changed
       run: |-
         git diff
-        git config --global user.email "sctnightcore@users.noreply.github.com"
-        git config --global user.name "sctnc's bot"
+        git config --global user.email "sctnightcore.bot@users.noreply.github.com"
+        git config --global user.name "sctnightcore_bot"
         git add data/member.json
         git commit -m "Refresh member.json" || exit 0
         git push
