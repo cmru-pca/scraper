@@ -44,7 +44,9 @@ const main = async () => {
       ""
     );
 
-    console.log(page.url())
+    if ("https://m.facebook.com/login.php" in page.url()) {
+      continue;
+    }
 
     let like = await get_like(page, page_id);
     let share = await get_share(page, page_id);
