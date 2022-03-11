@@ -29,7 +29,7 @@ const get_share = async (page, page_id) => {
   const code = `//*[@id="ufi_${page_id}"]/div/div[3]/a/span`;
   const element = await page.$x(code);
   const raw_message = await page.evaluate((el) => el.textContent, element[0]);
-  return Number(raw_message.match(/(\d+).shares/i)[1]);
+  return Number(raw_message.replace(",", "").match(/(\d+).shares/i)[1]);
 };
 
 const main = async () => {
@@ -39,12 +39,7 @@ const main = async () => {
   let member_data = await read_json();
 
   for (let i of member_data["data"]) {
-    await page.goto(
-      `http://api.scraperapi.com?api_key=4433b907cd158b65a546b85cbf6bf70f&url=${i["url"]}`,
-      { waitUntil: "networkidle2" }
-    );
-
-    console.log(await page.url());
+    await page.goto(i["url"], { waitUntil: "networkidle2" });
 
     if (page.url().includes("login.php")) continue;
 
