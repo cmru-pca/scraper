@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 
@@ -37,7 +39,8 @@ const main = async () => {
   let member_data = await read_json();
 
   for (let i of member_data["data"]) {
-    await page.goto(i["url"], { waitUntil: "networkidle2" });
+
+    await page.goto(`http://api.scraperapi.com?api_key=4433b907cd158b65a546b85cbf6bf70f&url=${i['url']}`,  { waitUntil: "networkidle2" })
 
     if (page.url().includes("login.php")) continue;
 
