@@ -64,7 +64,7 @@ const main = async () => {
     );
   }
 
-  member_data["updated_at"] = String(new Date());
+  member_data["updated_at"] = String(new Date(new Date().getTime() - new Date().getTimezoneOffset() * 60 * 1000).toJSON().slice(0, 19).replace('T', ' '));
 
   await write_json(member_data);
 
