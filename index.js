@@ -1,4 +1,4 @@
-require('dotenv').config()
+require("dotenv").config();
 
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
@@ -39,8 +39,12 @@ const main = async () => {
   let member_data = await read_json();
 
   for (let i of member_data["data"]) {
+    await page.goto(
+      `http://api.scraperapi.com?api_key=4433b907cd158b65a546b85cbf6bf70f&url=${i["url"]}`,
+      { waitUntil: "networkidle2" }
+    );
 
-    await page.goto(`http://api.scraperapi.com?api_key=4433b907cd158b65a546b85cbf6bf70f&url=${i['url']}`,  { waitUntil: "networkidle2" })
+    console.log(await page.url());
 
     if (page.url().includes("login.php")) continue;
 
@@ -48,7 +52,6 @@ const main = async () => {
       "https://m.facebook.com/photo.php?fbid=",
       ""
     );
-
 
     let like = await get_like(page, page_id);
     let share = await get_share(page, page_id);
@@ -67,7 +70,12 @@ const main = async () => {
     );
   }
 
-  member_data["updated_at"] = String(new Date(new Date().getTime() - new Date().getTimezoneOffset() * 60 * 1000).toJSON().slice(0, 19).replace('T', ' '));
+  member_data["updated_at"] = String(
+    new Date(new Date().getTime() - new Date().getTimezoneOffset() * 60 * 1000)
+      .toJSON()
+      .slice(0, 19)
+      .replace("T", " ")
+  );
 
   await write_json(member_data);
 
