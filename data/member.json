@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-03-12 20:15:38",
+  "updated_at": "2022-03-12 20:36:17",
   "data": [
     {
       "id": "1",
@@ -74,11 +74,11 @@
       "image": "https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/275287406_281779734100278_2598620007286188247_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEq3QeFdE7oOAv8H-LA3c8Vj-mEL1A4uhGP6YQvUDi6EYxd81tWT_OrZ4Bpe7pOCZHHoggoR5OXe_dQyYVUVBaE&_nc_ohc=HTOQ5oK-58cAX-1SzR-&tn=vTCtn4jYvgmBPJtz&_nc_zt=23&_nc_ht=scontent.fbkk8-4.fna&oh=00_AT9dRAgvskXqYIiUZC_UHhXCBtiVUux9f_ryaD6AYESzuQ&oe=622CA312",
       "data": {
         "like": 169,
-        "old_like": 168,
+        "old_like": 169,
         "share": 49,
-        "old_share": 48,
+        "old_share": 49,
         "point": 414,
-        "old_point": 408
+        "old_point": 414
       }
     },
     {
@@ -106,11 +106,11 @@
       "image": "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/275305836_281779767433608_6965722272553360746_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGFWxSi5ysnH7iWis98lxWldcIgfvxAMXV1wiB-_EAxdTCAwGOm9y3Gg4YdKdfLCEnPekoPWIs2JfYaXMVndpxY&_nc_ohc=HNGu8Yxo_6cAX9uGWRA&_nc_zt=23&_nc_ht=scontent.fbkk12-3.fna&oh=00_AT8NrTUXcvlHOHVZa14eMcczdtc2WcEjdhfieI9jPxrxEw&oe=622CF4C7",
       "data": {
         "like": 593,
-        "old_like": 590,
+        "old_like": 593,
         "share": 1801,
         "old_share": 1801,
         "point": 9598,
-        "old_point": 9595
+        "old_point": 9598
       }
     },
     {
@@ -234,11 +234,11 @@
       "image": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/275363346_281790597432525_2057645114276202366_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEqG9WwbE_1tvGU3zcKviKGPLzyS7cCp_s8vPJLtwKn-yUCYHTdN7NbFoyPI8BqChFjEp2ILsXzXi0kilStIyRs&_nc_ohc=aJkHzZXSRpwAX8MVGc0&tn=vTCtn4jYvgmBPJtz&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT_3TeRCi-lgbtP6ylCi3ykC50499IX9EIfU-FURSR9Crw&oe=622CCCCD",
       "data": {
         "like": 276,
-        "old_like": 273,
+        "old_like": 276,
         "share": 612,
         "old_share": 612,
         "point": 3336,
-        "old_point": 3333
+        "old_point": 3336
       }
     },
     {
@@ -267,9 +267,9 @@
       "data": {
         "like": 282,
         "old_like": 282,
-        "share": 304,
+        "share": 395,
         "old_share": 304,
-        "point": 1802,
+        "point": 2257,
         "old_point": 1802
       }
     },
