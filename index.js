@@ -41,15 +41,11 @@ const main = async () => {
   for (let i of member_data["data"]) {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
-    if (page.url().includes("login.php")) continue;
+    let raw_message = await page.evaluate(() =>  document.documentElement.outerHTML);
 
-    let page_id = i["url"].replace(
-      "https://m.facebook.com/photo.php?fbid=",
-      ""
-    );
+    let like = Number(raw_message.match(/"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i)[1])
+    let share = Number(raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)[1])
 
-    let like = await get_like(page, page_id);
-    let share = await get_share(page, page_id);
     let point = share * 5 + like;
 
     i["data"]["old_like"] = i["data"]["like"];
@@ -60,9 +56,11 @@ const main = async () => {
     i["data"]["share"] = share;
     i["data"]["point"] = point;
 
+
     console.log(
       `[${i["type"]}${i["id"]}] Point: ${point} Like: ${like} Share: ${share}`
     );
+
   }
 
   member_data["updated_at"] = String(
