@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-03-14 03:12:41",
+  "updated_at": "2022-03-14 03:36:31",
   "data": [
     {
       "id": "1",
@@ -107,10 +107,10 @@
       "data": {
         "like": 625,
         "old_like": 625,
-        "share": 7265,
-        "old_share": 6295,
-        "point": 36950,
-        "old_point": 32100
+        "share": 7264,
+        "old_share": 7265,
+        "point": 36945,
+        "old_point": 36950
       }
     },
     {
@@ -122,11 +122,11 @@
       "image": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/275266627_281779817433603_1736763307989513602_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHfUB5XIlFCuxM4Kd3akaqOt-2aO9hnJPO37Zo72Gck87we1bh3-9zLsvLJd_8g0ikYwD8ViqQ6ZJUu1PLwTH1-&_nc_ohc=Whu9OReEZOMAX-m72xh&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT8XzjL6OY9pLAZcfZZON0uZZZxVZQ6NEed24d7-UV0GVQ&oe=622C7E3F",
       "data": {
         "like": 463,
-        "old_like": 462,
+        "old_like": 463,
         "share": 4187,
-        "old_share": 3726,
+        "old_share": 4187,
         "point": 21398,
-        "old_point": 19092
+        "old_point": 21398
       }
     },
     {
