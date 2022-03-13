@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-03-14 05:11:47",
+  "updated_at": "2022-03-14 05:36:53",
   "data": [
     {
       "id": "1",
@@ -106,11 +106,11 @@
       "image": "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/275305836_281779767433608_6965722272553360746_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGFWxSi5ysnH7iWis98lxWldcIgfvxAMXV1wiB-_EAxdTCAwGOm9y3Gg4YdKdfLCEnPekoPWIs2JfYaXMVndpxY&_nc_ohc=HNGu8Yxo_6cAX9uGWRA&_nc_zt=23&_nc_ht=scontent.fbkk12-3.fna&oh=00_AT8NrTUXcvlHOHVZa14eMcczdtc2WcEjdhfieI9jPxrxEw&oe=622CF4C7",
       "data": {
         "like": 628,
-        "old_like": 627,
-        "share": 7797,
-        "old_share": 7616,
-        "point": 39613,
-        "old_point": 38707
+        "old_like": 628,
+        "share": 7792,
+        "old_share": 7797,
+        "point": 39588,
+        "old_point": 39613
       }
     },
     {
@@ -123,9 +123,9 @@
       "data": {
         "like": 463,
         "old_like": 463,
-        "share": 4711,
+        "share": 4710,
         "old_share": 4711,
-        "point": 24018,
+        "point": 24013,
         "old_point": 24018
       }
     },
@@ -268,9 +268,9 @@
         "like": 304,
         "old_like": 304,
         "share": 1714,
-        "old_share": 1713,
+        "old_share": 1714,
         "point": 8874,
-        "old_point": 8869
+        "old_point": 8874
       }
     },
     {
