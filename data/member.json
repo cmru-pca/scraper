@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-03-14 15:17:26",
+  "updated_at": "2022-03-14 15:44:51",
   "data": [
     {
       "id": "1",
@@ -107,10 +107,10 @@
       "data": {
         "like": 628,
         "old_like": 628,
-        "share": 9883,
-        "old_share": 9744,
-        "point": 50043,
-        "old_point": 49348
+        "share": 9936,
+        "old_share": 9883,
+        "point": 50308,
+        "old_point": 50043
       }
     },
     {
@@ -234,11 +234,11 @@
       "image": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/275363346_281790597432525_2057645114276202366_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEqG9WwbE_1tvGU3zcKviKGPLzyS7cCp_s8vPJLtwKn-yUCYHTdN7NbFoyPI8BqChFjEp2ILsXzXi0kilStIyRs&_nc_ohc=aJkHzZXSRpwAX8MVGc0&tn=vTCtn4jYvgmBPJtz&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT_3TeRCi-lgbtP6ylCi3ykC50499IX9EIfU-FURSR9Crw&oe=622CCCCD",
       "data": {
         "like": 288,
-        "old_like": 287,
+        "old_like": 288,
         "share": 3325,
-        "old_share": 3326,
+        "old_share": 3325,
         "point": 16913,
-        "old_point": 16917
+        "old_point": 16913
       }
     },
     {
@@ -268,9 +268,9 @@
         "like": 307,
         "old_like": 307,
         "share": 2416,
-        "old_share": 2408,
+        "old_share": 2416,
         "point": 12387,
-        "old_point": 12347
+        "old_point": 12387
       }
     },
     {
