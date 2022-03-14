@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-03-14 14:12:35",
+  "updated_at": "2022-03-14 14:35:30",
   "data": [
     {
       "id": "1",
@@ -107,10 +107,10 @@
       "data": {
         "like": 628,
         "old_like": 628,
-        "share": 9598,
-        "old_share": 9563,
-        "point": 48618,
-        "old_point": 48443
+        "share": 9744,
+        "old_share": 9598,
+        "point": 49348,
+        "old_point": 48618
       }
     },
     {
@@ -121,11 +121,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=281779820766936",
       "image": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/275266627_281779817433603_1736763307989513602_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHfUB5XIlFCuxM4Kd3akaqOt-2aO9hnJPO37Zo72Gck87we1bh3-9zLsvLJd_8g0ikYwD8ViqQ6ZJUu1PLwTH1-&_nc_ohc=Whu9OReEZOMAX-m72xh&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT8XzjL6OY9pLAZcfZZON0uZZZxVZQ6NEed24d7-UV0GVQ&oe=622C7E3F",
       "data": {
-        "like": 465,
+        "like": 467,
         "old_like": 465,
         "share": 4712,
         "old_share": 4712,
-        "point": 24025,
+        "point": 24027,
         "old_point": 24025
       }
     },
@@ -234,11 +234,11 @@
       "image": "https://scontent.fbkk12-2.fna.fbcdn.net/v/t39.30808-6/275363346_281790597432525_2057645114276202366_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEqG9WwbE_1tvGU3zcKviKGPLzyS7cCp_s8vPJLtwKn-yUCYHTdN7NbFoyPI8BqChFjEp2ILsXzXi0kilStIyRs&_nc_ohc=aJkHzZXSRpwAX8MVGc0&tn=vTCtn4jYvgmBPJtz&_nc_zt=23&_nc_ht=scontent.fbkk12-2.fna&oh=00_AT_3TeRCi-lgbtP6ylCi3ykC50499IX9EIfU-FURSR9Crw&oe=622CCCCD",
       "data": {
         "like": 287,
-        "old_like": 286,
-        "share": 2941,
-        "old_share": 2635,
-        "point": 14992,
-        "old_point": 13461
+        "old_like": 287,
+        "share": 3326,
+        "old_share": 2941,
+        "point": 16917,
+        "old_point": 14992
       }
     },
     {
@@ -267,10 +267,10 @@
       "data": {
         "like": 307,
         "old_like": 307,
-        "share": 2214,
-        "old_share": 2210,
-        "point": 11377,
-        "old_point": 11357
+        "share": 2408,
+        "old_share": 2214,
+        "point": 12347,
+        "old_point": 11377
       }
     },
     {
