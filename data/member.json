@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-21 03:19:07",
+  "updated_at": "2022-08-21 03:41:31",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 149,
-        "old_like": 148,
+        "old_like": 149,
         "share": 68,
-        "old_share": 67,
+        "old_share": 68,
         "point": 353,
-        "old_point": 349
+        "old_point": 353
       }
     },
     {
@@ -39,11 +39,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
         "like": 87,
-        "old_like": 85,
+        "old_like": 87,
         "share": 21,
         "old_share": 21,
         "point": 150,
-        "old_point": 148
+        "old_point": 150
       }
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 347,
-        "old_like": 346,
+        "old_like": 347,
         "share": 141,
-        "old_share": 140,
+        "old_share": 141,
         "point": 770,
-        "old_point": 766
+        "old_point": 770
       }
     },
     {
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 154,
-        "old_like": 153,
+        "old_like": 154,
         "share": 61,
-        "old_share": 60,
+        "old_share": 61,
         "point": 337,
-        "old_point": 333
+        "old_point": 337
       }
     },
     {
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 154,
-        "old_like": 153,
+        "old_like": 154,
         "share": 78,
         "old_share": 78,
         "point": 388,
-        "old_point": 387
+        "old_point": 388
       }
     },
     {
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 141,
-        "old_like": 140,
+        "old_like": 141,
         "share": 46,
         "old_share": 46,
         "point": 279,
-        "old_point": 278
+        "old_point": 279
       }
     },
     {
@@ -128,12 +128,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 113,
-        "old_like": 112,
+        "like": 117,
+        "old_like": 113,
         "share": 23,
         "old_share": 23,
-        "point": 182,
-        "old_point": 181
+        "point": 186,
+        "old_point": 182
       }
     },
     {
@@ -159,11 +159,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
         "like": 39,
-        "old_like": 37,
+        "old_like": 39,
         "share": 2,
         "old_share": 2,
         "point": 45,
-        "old_point": 43
+        "old_point": 45
       }
     },
     {
@@ -173,11 +173,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 159,
+        "like": 160,
         "old_like": 159,
         "share": 40,
         "old_share": 40,
-        "point": 279,
+        "point": 280,
         "old_point": 279
       }
     },
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 69,
-        "old_like": 68,
+        "old_like": 69,
         "share": 13,
         "old_share": 13,
         "point": 108,
-        "old_point": 107
+        "old_point": 108
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 302,
-        "old_like": 301,
+        "old_like": 302,
         "share": 152,
         "old_share": 152,
         "point": 758,
-        "old_point": 757
+        "old_point": 758
       }
     },
     {
@@ -234,11 +234,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
         "like": 75,
-        "old_like": 74,
+        "old_like": 75,
         "share": 25,
         "old_share": 25,
         "point": 150,
-        "old_point": 149
+        "old_point": 150
       }
     },
     {
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 83,
-        "old_like": 82,
+        "old_like": 83,
         "share": 18,
         "old_share": 18,
         "point": 137,
-        "old_point": 136
+        "old_point": 137
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 56,
-        "old_like": 54,
+        "old_like": 56,
         "share": 36,
         "old_share": 36,
         "point": 164,
-        "old_point": 162
+        "old_point": 164
       }
     },
     {
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 113,
-        "old_like": 112,
+        "old_like": 113,
         "share": 39,
-        "old_share": 40,
+        "old_share": 39,
         "point": 230,
-        "old_point": 232
+        "old_point": 230
       }
     },
     {
@@ -294,11 +294,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
         "like": 98,
-        "old_like": 97,
+        "old_like": 98,
         "share": 65,
         "old_share": 65,
         "point": 293,
-        "old_point": 292
+        "old_point": 293
       }
     },
     {
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 93,
-        "old_like": 91,
+        "old_like": 93,
         "share": 45,
         "old_share": 45,
         "point": 228,
-        "old_point": 226
+        "old_point": 228
       }
     },
     {
