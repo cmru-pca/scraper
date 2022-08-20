@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-20 18:15:36",
+  "updated_at": "2022-08-20 18:38:03",
   "data": [
     {
       "id": "1",
@@ -8,12 +8,12 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 36,
-        "old_like": 29,
+        "like": 37,
+        "old_like": 36,
         "share": 8,
-        "old_share": 6,
-        "point": 60,
-        "old_point": 47
+        "old_share": 8,
+        "point": 61,
+        "old_point": 60
       }
     },
     {
@@ -23,12 +23,12 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 64,
-        "old_like": 62,
-        "share": 40,
+        "like": 67,
+        "old_like": 64,
+        "share": 43,
         "old_share": 40,
-        "point": 184,
-        "old_point": 182
+        "point": 196,
+        "old_point": 184
       }
     },
     {
@@ -38,12 +38,12 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
-        "like": 36,
-        "old_like": 33,
+        "like": 39,
+        "old_like": 36,
         "share": 5,
         "old_share": 5,
-        "point": 51,
-        "old_point": 48
+        "point": 54,
+        "old_point": 51
       }
     },
     {
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 199,
-        "old_like": 159,
-        "share": 93,
-        "old_share": 63,
-        "point": 478,
-        "old_point": 348
+        "like": 215,
+        "old_like": 199,
+        "share": 98,
+        "old_share": 93,
+        "point": 509,
+        "old_point": 478
       }
     },
     {
@@ -68,12 +68,12 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 86,
-        "old_like": 77,
-        "share": 33,
-        "old_share": 29,
-        "point": 185,
-        "old_point": 164
+        "like": 96,
+        "old_like": 86,
+        "share": 37,
+        "old_share": 33,
+        "point": 207,
+        "old_point": 185
       }
     },
     {
@@ -83,12 +83,12 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 88,
-        "old_like": 74,
-        "share": 39,
-        "old_share": 37,
-        "point": 205,
-        "old_point": 185
+        "like": 94,
+        "old_like": 88,
+        "share": 41,
+        "old_share": 39,
+        "point": 217,
+        "old_point": 205
       }
     },
     {
@@ -98,12 +98,12 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 85,
-        "old_like": 68,
-        "share": 30,
-        "old_share": 22,
-        "point": 175,
-        "old_point": 134
+        "like": 92,
+        "old_like": 85,
+        "share": 31,
+        "old_share": 30,
+        "point": 185,
+        "old_point": 175
       }
     },
     {
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208073637630",
       "data": {
-        "like": 39,
-        "old_like": 35,
-        "share": 14,
-        "old_share": 12,
-        "point": 81,
-        "old_point": 71
+        "like": 41,
+        "old_like": 39,
+        "share": 16,
+        "old_share": 14,
+        "point": 89,
+        "old_point": 81
       }
     },
     {
@@ -128,12 +128,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 29,
-        "old_like": 24,
-        "share": 5,
+        "like": 33,
+        "old_like": 29,
+        "share": 8,
         "old_share": 5,
-        "point": 44,
-        "old_point": 39
+        "point": 57,
+        "old_point": 44
       }
     },
     {
@@ -143,12 +143,12 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 78,
-        "old_like": 68,
-        "share": 49,
-        "old_share": 47,
-        "point": 225,
-        "old_point": 209
+        "like": 82,
+        "old_like": 78,
+        "share": 50,
+        "old_share": 49,
+        "point": 232,
+        "old_point": 225
       }
     },
     {
@@ -158,12 +158,12 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
-        "like": 17,
-        "old_like": 15,
+        "like": 19,
+        "old_like": 17,
         "share": 2,
-        "old_share": 1,
-        "point": 23,
-        "old_point": 18
+        "old_share": 2,
+        "point": 25,
+        "old_point": 23
       }
     },
     {
@@ -173,12 +173,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 60,
-        "old_like": 53,
-        "share": 14,
+        "like": 67,
+        "old_like": 60,
+        "share": 16,
         "old_share": 14,
-        "point": 102,
-        "old_point": 95
+        "point": 115,
+        "old_point": 102
       }
     },
     {
@@ -188,12 +188,12 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
-        "like": 29,
-        "old_like": 25,
+        "like": 31,
+        "old_like": 29,
         "share": 4,
         "old_share": 4,
-        "point": 41,
-        "old_point": 37
+        "point": 43,
+        "old_point": 41
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 133,
-        "old_like": 110,
-        "share": 94,
-        "old_share": 44,
-        "point": 415,
-        "old_point": 242
+        "like": 141,
+        "old_like": 133,
+        "share": 97,
+        "old_share": 94,
+        "point": 432,
+        "old_point": 415
       }
     },
     {
@@ -218,12 +218,12 @@
       "major": "เทคโนโลยีสารสนเทศ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
-        "like": 17,
+        "like": 19,
         "old_like": 17,
         "share": 3,
-        "old_share": 2,
-        "point": 26,
-        "old_point": 23
+        "old_share": 3,
+        "point": 28,
+        "old_point": 26
       }
     },
     {
@@ -233,12 +233,12 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
-        "like": 30,
-        "old_like": 24,
+        "like": 31,
+        "old_like": 30,
         "share": 5,
-        "old_share": 4,
-        "point": 45,
-        "old_point": 36
+        "old_share": 5,
+        "point": 46,
+        "old_point": 45
       }
     },
     {
@@ -248,12 +248,12 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 38,
-        "old_like": 33,
+        "like": 40,
+        "old_like": 38,
         "share": 9,
-        "old_share": 7,
-        "point": 65,
-        "old_point": 54
+        "old_share": 9,
+        "point": 67,
+        "old_point": 65
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 25,
-        "old_like": 24,
-        "share": 23,
-        "old_share": 21,
-        "point": 94,
-        "old_point": 87
+        "like": 26,
+        "old_like": 25,
+        "share": 24,
+        "old_share": 23,
+        "point": 98,
+        "old_point": 94
       }
     },
     {
@@ -278,12 +278,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 39,
-        "old_like": 35,
-        "share": 6,
+        "like": 41,
+        "old_like": 39,
+        "share": 9,
         "old_share": 6,
-        "point": 57,
-        "old_point": 53
+        "point": 68,
+        "old_point": 57
       }
     },
     {
@@ -293,12 +293,12 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
-        "like": 76,
-        "old_like": 72,
-        "share": 41,
-        "old_share": 40,
-        "point": 199,
-        "old_point": 192
+        "like": 79,
+        "old_like": 76,
+        "share": 55,
+        "old_share": 41,
+        "point": 244,
+        "old_point": 199
       }
     },
     {
@@ -308,12 +308,12 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 14,
-        "old_like": 13,
-        "share": 2,
-        "old_share": 1,
-        "point": 20,
-        "old_point": 16
+        "like": 26,
+        "old_like": 14,
+        "share": 14,
+        "old_share": 2,
+        "point": 68,
+        "old_point": 20
       }
     },
     {
@@ -323,12 +323,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
-        "like": 44,
-        "old_like": 33,
-        "share": 12,
-        "old_share": 8,
-        "point": 80,
-        "old_point": 57
+        "like": 53,
+        "old_like": 44,
+        "share": 16,
+        "old_share": 12,
+        "point": 101,
+        "old_point": 80
       }
     }
   ]
