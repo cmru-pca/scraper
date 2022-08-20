@@ -2,8 +2,8 @@ name: Node.js CI
 
 on:
   workflow_dispatch:
-  #schedule:
-    #- cron: '*/30 * * * *'
+  schedule:
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
@@ -45,8 +45,8 @@ jobs:
     - name: Commit and push if data changed
       run: |-
         git diff
-        git config --global user.email "sctnightcore.bot@users.noreply.github.com"
-        git config --global user.name "sctnightcore_bot"
+        git config --global user.email "sctnightcore@users.noreply.github.com"
+        git config --global user.name "sctnightcore"
         git add data/member.json
         git commit -m "Refresh member.json" || exit 0
         git push
