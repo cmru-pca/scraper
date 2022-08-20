@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-21 06:17:31",
+  "updated_at": "2022-08-21 06:40:21",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 151,
-        "old_like": 149,
+        "old_like": 151,
         "share": 68,
         "old_share": 68,
         "point": 355,
-        "old_point": 353
+        "old_point": 355
       }
     },
     {
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 348,
+        "like": 350,
         "old_like": 348,
         "share": 141,
         "old_share": 141,
-        "point": 771,
+        "point": 773,
         "old_point": 771
       }
     },
@@ -86,9 +86,9 @@
         "like": 155,
         "old_like": 155,
         "share": 79,
-        "old_share": 78,
+        "old_share": 79,
         "point": 392,
-        "old_point": 389
+        "old_point": 392
       }
     },
     {
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 92,
+        "like": 94,
         "old_like": 92,
-        "share": 42,
+        "share": 45,
         "old_share": 42,
-        "point": 218,
+        "point": 229,
         "old_point": 218
       }
     },
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 133,
+        "like": 134,
         "old_like": 133,
         "share": 64,
         "old_share": 64,
-        "point": 325,
+        "point": 326,
         "old_point": 325
       }
     },
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 85,
-        "old_like": 83,
+        "old_like": 85,
         "share": 18,
         "old_share": 18,
         "point": 139,
-        "old_point": 137
+        "old_point": 139
       }
     },
     {
@@ -281,9 +281,9 @@
         "like": 117,
         "old_like": 117,
         "share": 42,
-        "old_share": 41,
+        "old_share": 42,
         "point": 243,
-        "old_point": 240
+        "old_point": 243
       }
     },
     {
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 94,
-        "old_like": 93,
+        "old_like": 94,
         "share": 45,
         "old_share": 45,
         "point": 229,
-        "old_point": 228
+        "old_point": 229
       }
     },
     {
