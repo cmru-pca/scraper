@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-21 04:44:20",
+  "updated_at": "2022-08-21 05:41:03",
   "data": [
     {
       "id": "1",
@@ -39,11 +39,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
         "like": 89,
-        "old_like": 88,
+        "old_like": 89,
         "share": 21,
         "old_share": 21,
         "point": 152,
-        "old_point": 151
+        "old_point": 152
       }
     },
     {
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 347,
+        "like": 348,
         "old_like": 347,
         "share": 141,
         "old_share": 141,
-        "point": 770,
+        "point": 771,
         "old_point": 770
       }
     },
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 155,
-        "old_like": 154,
+        "old_like": 155,
         "share": 78,
         "old_share": 78,
         "point": 389,
-        "old_point": 388
+        "old_point": 389
       }
     },
     {
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 91,
+        "like": 92,
         "old_like": 91,
         "share": 42,
         "old_share": 42,
-        "point": 217,
+        "point": 218,
         "old_point": 217
       }
     },
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 114,
+        "like": 117,
         "old_like": 114,
-        "share": 39,
+        "share": 41,
         "old_share": 39,
-        "point": 231,
+        "point": 240,
         "old_point": 231
       }
     },
