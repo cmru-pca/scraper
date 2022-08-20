@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-21 04:17:05",
+  "updated_at": "2022-08-21 04:44:20",
   "data": [
     {
       "id": "1",
@@ -38,12 +38,12 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
-        "like": 88,
-        "old_like": 87,
+        "like": 89,
+        "old_like": 88,
         "share": 21,
         "old_share": 21,
-        "point": 151,
-        "old_point": 150
+        "point": 152,
+        "old_point": 151
       }
     },
     {
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 154,
+        "like": 155,
         "old_like": 154,
         "share": 78,
         "old_share": 78,
-        "point": 388,
+        "point": 389,
         "old_point": 388
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 91,
-        "old_like": 90,
+        "old_like": 91,
         "share": 42,
         "old_share": 42,
         "point": 217,
-        "old_point": 216
+        "old_point": 217
       }
     },
     {
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 70,
-        "old_like": 69,
+        "old_like": 70,
         "share": 13,
         "old_share": 13,
         "point": 109,
-        "old_point": 108
+        "old_point": 109
       }
     },
     {
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 114,
-        "old_like": 113,
+        "old_like": 114,
         "share": 39,
         "old_share": 39,
         "point": 231,
-        "old_point": 230
+        "old_point": 231
       }
     },
     {
