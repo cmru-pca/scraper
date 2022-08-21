@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 05:41:02",
+  "updated_at": "2022-08-22 06:40:39",
   "data": [
     {
       "id": "1",
@@ -8,11 +8,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 181,
+        "like": 182,
         "old_like": 181,
         "share": 78,
         "old_share": 78,
-        "point": 415,
+        "point": 416,
         "old_point": 415
       }
     },
@@ -100,9 +100,9 @@
       "data": {
         "like": 163,
         "old_like": 163,
-        "share": 50,
+        "share": 51,
         "old_share": 50,
-        "point": 313,
+        "point": 316,
         "old_point": 313
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 167,
-        "old_like": 166,
-        "share": 119,
-        "old_share": 117,
-        "point": 524,
-        "old_point": 517
+        "like": 169,
+        "old_like": 167,
+        "share": 123,
+        "old_share": 119,
+        "point": 538,
+        "old_point": 524
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 150,
+        "like": 151,
         "old_like": 150,
-        "share": 137,
+        "share": 138,
         "old_share": 137,
-        "point": 561,
+        "point": 565,
         "old_point": 561
       }
     },
