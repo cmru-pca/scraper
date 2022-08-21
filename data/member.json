@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 01:22:09",
+  "updated_at": "2022-08-22 01:46:02",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 180,
-        "old_like": 178,
+        "old_like": 180,
         "share": 78,
         "old_share": 78,
         "point": 414,
-        "old_point": 412
+        "old_point": 414
       }
     },
     {
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 188,
-        "old_like": 187,
+        "old_like": 188,
         "share": 68,
         "old_share": 68,
         "point": 392,
-        "old_point": 391
+        "old_point": 392
       }
     },
     {
@@ -144,11 +144,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
         "like": 162,
-        "old_like": 161,
+        "old_like": 162,
         "share": 77,
         "old_share": 77,
         "point": 393,
-        "old_point": 392
+        "old_point": 393
       }
     },
     {
@@ -206,9 +206,9 @@
         "like": 350,
         "old_like": 350,
         "share": 188,
-        "old_share": 160,
+        "old_share": 188,
         "point": 914,
-        "old_point": 830
+        "old_point": 914
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 67,
-        "old_like": 66,
+        "old_like": 67,
         "share": 46,
-        "old_share": 45,
+        "old_share": 46,
         "point": 205,
-        "old_point": 201
+        "old_point": 205
       }
     },
     {
@@ -324,11 +324,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
         "like": 117,
-        "old_like": 116,
+        "old_like": 117,
         "share": 38,
         "old_share": 38,
         "point": 231,
-        "old_point": 230
+        "old_point": 231
       }
     }
   ]
