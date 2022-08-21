@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 03:19:19",
+  "updated_at": "2022-08-22 03:41:31",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 397,
+        "like": 398,
         "old_like": 397,
-        "share": 154,
+        "share": 155,
         "old_share": 154,
-        "point": 859,
+        "point": 863,
         "old_point": 859
       }
     },
@@ -206,9 +206,9 @@
         "like": 350,
         "old_like": 350,
         "share": 189,
-        "old_share": 188,
+        "old_share": 189,
         "point": 917,
-        "old_point": 914
+        "old_point": 917
       }
     },
     {
