@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 14:39:42",
+  "updated_at": "2022-08-22 15:24:03",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 185,
-        "old_like": 184,
+        "old_like": 185,
         "share": 78,
         "old_share": 78,
         "point": 419,
-        "old_point": 418
+        "old_point": 419
       }
     },
     {
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 405,
+        "like": 407,
         "old_like": 405,
-        "share": 173,
-        "old_share": 160,
-        "point": 924,
-        "old_point": 885
+        "share": 174,
+        "old_share": 173,
+        "point": 929,
+        "old_point": 924
       }
     },
     {
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 192,
+        "like": 193,
         "old_like": 192,
         "share": 69,
         "old_share": 69,
-        "point": 399,
+        "point": 400,
         "old_point": 399
       }
     },
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 166,
+        "like": 167,
         "old_like": 166,
         "share": 52,
         "old_share": 52,
-        "point": 322,
+        "point": 323,
         "old_point": 322
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 210,
-        "old_like": 209,
+        "old_like": 210,
         "share": 163,
-        "old_share": 161,
+        "old_share": 163,
         "point": 699,
-        "old_point": 692
+        "old_point": 699
       }
     },
     {
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 165,
+        "like": 166,
         "old_like": 165,
         "share": 78,
         "old_share": 78,
-        "point": 399,
+        "point": 400,
         "old_point": 399
       }
     },
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 362,
-        "old_like": 361,
+        "like": 363,
+        "old_like": 362,
         "share": 199,
-        "old_share": 198,
-        "point": 959,
-        "old_point": 955
+        "old_share": 199,
+        "point": 960,
+        "old_point": 959
       }
     },
     {
@@ -218,11 +218,11 @@
       "major": "เทคโนโลยีสารสนเทศ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
-        "like": 50,
+        "like": 51,
         "old_like": 50,
         "share": 17,
         "old_share": 17,
-        "point": 101,
+        "point": 102,
         "old_point": 101
       }
     },
@@ -265,9 +265,9 @@
       "data": {
         "like": 68,
         "old_like": 68,
-        "share": 46,
+        "share": 47,
         "old_share": 46,
-        "point": 206,
+        "point": 209,
         "old_point": 206
       }
     },
@@ -293,11 +293,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
-        "like": 115,
+        "like": 116,
         "old_like": 115,
         "share": 75,
         "old_share": 75,
-        "point": 340,
+        "point": 341,
         "old_point": 340
       }
     },
@@ -308,12 +308,12 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 121,
-        "old_like": 120,
-        "share": 63,
-        "old_share": 62,
-        "point": 310,
-        "old_point": 306
+        "like": 122,
+        "old_like": 121,
+        "share": 64,
+        "old_share": 63,
+        "point": 314,
+        "old_point": 310
       }
     },
     {
