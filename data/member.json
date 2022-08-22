@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 00:41:58",
+  "updated_at": "2022-08-23 01:22:33",
   "data": [
     {
       "id": "1",
@@ -26,9 +26,9 @@
         "like": 131,
         "old_like": 131,
         "share": 62,
-        "old_share": 61,
+        "old_share": 62,
         "point": 317,
-        "old_point": 314
+        "old_point": 317
       }
     },
     {
@@ -128,11 +128,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 194,
+        "like": 195,
         "old_like": 194,
         "share": 275,
         "old_share": 275,
-        "point": 1019,
+        "point": 1020,
         "old_point": 1019
       }
     },
@@ -278,12 +278,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 155,
+        "like": 156,
         "old_like": 155,
-        "share": 141,
-        "old_share": 139,
-        "point": 578,
-        "old_point": 572
+        "share": 142,
+        "old_share": 141,
+        "point": 582,
+        "old_point": 578
       }
     },
     {
