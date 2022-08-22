@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 23:24:44",
+  "updated_at": "2022-08-22 23:56:36",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 196,
+        "like": 197,
         "old_like": 196,
-        "share": 72,
+        "share": 73,
         "old_share": 72,
-        "point": 412,
+        "point": 416,
         "old_point": 412
       }
     },
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 168,
-        "old_like": 167,
+        "old_like": 168,
         "share": 53,
         "old_share": 53,
         "point": 327,
-        "old_point": 326
+        "old_point": 327
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 225,
-        "old_like": 224,
+        "old_like": 225,
         "share": 182,
-        "old_share": 180,
+        "old_share": 182,
         "point": 771,
-        "old_point": 764
+        "old_point": 771
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 368,
-        "old_like": 367,
+        "old_like": 368,
         "share": 206,
         "old_share": 206,
         "point": 986,
-        "old_point": 985
+        "old_point": 986
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 78,
-        "old_like": 69,
-        "share": 53,
-        "old_share": 48,
-        "point": 237,
-        "old_point": 213
+        "old_like": 78,
+        "share": 54,
+        "old_share": 53,
+        "point": 240,
+        "old_point": 237
       }
     },
     {
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 124,
-        "old_like": 123,
+        "old_like": 124,
         "share": 65,
         "old_share": 65,
         "point": 319,
-        "old_point": 318
+        "old_point": 319
       }
     },
     {
