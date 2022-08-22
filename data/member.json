@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 06:18:48",
+  "updated_at": "2022-08-23 06:41:34",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 411,
+        "like": 412,
         "old_like": 411,
         "share": 216,
         "old_share": 216,
-        "point": 1059,
+        "point": 1060,
         "old_point": 1059
       }
     },
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 197,
+        "like": 198,
         "old_like": 197,
-        "share": 73,
+        "share": 75,
         "old_share": 73,
-        "point": 416,
+        "point": 423,
         "old_point": 416
       }
     },
@@ -116,9 +116,9 @@
         "like": 225,
         "old_like": 225,
         "share": 183,
-        "old_share": 182,
+        "old_share": 183,
         "point": 774,
-        "old_point": 771
+        "old_point": 774
       }
     },
     {
@@ -173,11 +173,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 186,
+        "like": 187,
         "old_like": 186,
         "share": 49,
         "old_share": 49,
-        "point": 333,
+        "point": 334,
         "old_point": 333
       }
     },
@@ -188,11 +188,11 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
-        "like": 82,
+        "like": 83,
         "old_like": 82,
         "share": 16,
         "old_share": 16,
-        "point": 130,
+        "point": 131,
         "old_point": 130
       }
     },
