@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 18:16:14",
+  "updated_at": "2022-08-22 18:38:57",
   "data": [
     {
       "id": "1",
@@ -8,11 +8,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 186,
+        "like": 187,
         "old_like": 186,
-        "share": 78,
+        "share": 79,
         "old_share": 78,
-        "point": 420,
+        "point": 424,
         "old_point": 420
       }
     },
@@ -56,9 +56,9 @@
         "like": 408,
         "old_like": 408,
         "share": 214,
-        "old_share": 174,
+        "old_share": 214,
         "point": 1050,
-        "old_point": 930
+        "old_point": 1050
       }
     },
     {
@@ -71,9 +71,9 @@
         "like": 194,
         "old_like": 194,
         "share": 72,
-        "old_share": 71,
+        "old_share": 72,
         "point": 410,
-        "old_point": 407
+        "old_point": 410
       }
     },
     {
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 195,
+        "like": 197,
         "old_like": 195,
-        "share": 176,
+        "share": 180,
         "old_share": 176,
-        "point": 723,
+        "point": 737,
         "old_point": 723
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 221,
-        "old_like": 219,
-        "share": 175,
-        "old_share": 173,
-        "point": 746,
-        "old_point": 738
+        "like": 223,
+        "old_like": 221,
+        "share": 176,
+        "old_share": 175,
+        "point": 751,
+        "old_point": 746
       }
     },
     {
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 186,
-        "old_like": 185,
+        "old_like": 186,
         "share": 48,
         "old_share": 48,
         "point": 330,
-        "old_point": 329
+        "old_point": 330
       }
     },
     {
@@ -206,9 +206,9 @@
         "like": 364,
         "old_like": 364,
         "share": 204,
-        "old_share": 199,
+        "old_share": 204,
         "point": 976,
-        "old_point": 961
+        "old_point": 976
       }
     },
     {
