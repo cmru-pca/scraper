@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 13:53:58",
+  "updated_at": "2022-08-22 14:17:16",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 184,
-        "old_like": 183,
+        "old_like": 184,
         "share": 78,
         "old_share": 78,
         "point": 418,
-        "old_point": 417
+        "old_point": 418
       }
     },
     {
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 195,
-        "old_like": 194,
+        "old_like": 195,
         "share": 176,
-        "old_share": 175,
+        "old_share": 176,
         "point": 723,
-        "old_point": 719
+        "old_point": 723
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 209,
-        "old_like": 208,
+        "old_like": 209,
         "share": 161,
-        "old_share": 160,
+        "old_share": 161,
         "point": 692,
-        "old_point": 688
+        "old_point": 692
       }
     },
     {
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 164,
+        "like": 165,
         "old_like": 164,
         "share": 78,
         "old_share": 78,
-        "point": 398,
+        "point": 399,
         "old_point": 398
       }
     },
@@ -323,11 +323,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
-        "like": 120,
+        "like": 121,
         "old_like": 120,
         "share": 38,
         "old_share": 38,
-        "point": 234,
+        "point": 235,
         "old_point": 234
       }
     }
