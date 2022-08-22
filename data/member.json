@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-22 12:55:48",
+  "updated_at": "2022-08-22 13:28:03",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 403,
+        "like": 405,
         "old_like": 403,
         "share": 160,
         "old_share": 160,
-        "point": 883,
+        "point": 885,
         "old_point": 883
       }
     },
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 191,
+        "like": 192,
         "old_like": 191,
         "share": 69,
         "old_share": 69,
-        "point": 398,
+        "point": 399,
         "old_point": 398
       }
     },
@@ -100,9 +100,9 @@
       "data": {
         "like": 166,
         "old_like": 166,
-        "share": 51,
+        "share": 52,
         "old_share": 51,
-        "point": 319,
+        "point": 322,
         "old_point": 319
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 204,
-        "old_like": 202,
-        "share": 157,
-        "old_share": 154,
-        "point": 675,
-        "old_point": 664
+        "like": 208,
+        "old_like": 204,
+        "share": 160,
+        "old_share": 157,
+        "point": 688,
+        "old_point": 675
       }
     },
     {
@@ -128,11 +128,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 192,
+        "like": 193,
         "old_like": 192,
         "share": 180,
         "old_share": 180,
-        "point": 732,
+        "point": 733,
         "old_point": 732
       }
     },
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 162,
+        "like": 164,
         "old_like": 162,
-        "share": 77,
+        "share": 78,
         "old_share": 77,
-        "point": 393,
+        "point": 398,
         "old_point": 393
       }
     },
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 359,
-        "old_like": 358,
+        "like": 361,
+        "old_like": 359,
         "share": 198,
-        "old_share": 196,
-        "point": 953,
-        "old_point": 946
+        "old_share": 198,
+        "point": 955,
+        "old_point": 953
       }
     },
     {
@@ -235,9 +235,9 @@
       "data": {
         "like": 94,
         "old_like": 94,
-        "share": 37,
+        "share": 38,
         "old_share": 37,
-        "point": 205,
+        "point": 208,
         "old_point": 205
       }
     },
@@ -280,9 +280,9 @@
       "data": {
         "like": 153,
         "old_like": 153,
-        "share": 138,
+        "share": 139,
         "old_share": 138,
-        "point": 567,
+        "point": 570,
         "old_point": 567
       }
     },
