@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 15:23:56",
+  "updated_at": "2022-08-23 15:47:18",
   "data": [
     {
       "id": "1",
@@ -56,9 +56,9 @@
         "like": 418,
         "old_like": 418,
         "share": 222,
-        "old_share": 221,
+        "old_share": 222,
         "point": 1084,
-        "old_point": 1081
+        "old_point": 1084
       }
     },
     {
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 204,
-        "old_like": 203,
+        "old_like": 204,
         "share": 184,
-        "old_share": 183,
+        "old_share": 184,
         "point": 756,
-        "old_point": 752
+        "old_point": 756
       }
     },
     {
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 237,
+        "like": 239,
         "old_like": 237,
-        "share": 193,
-        "old_share": 191,
-        "point": 816,
-        "old_point": 810
+        "share": 195,
+        "old_share": 193,
+        "point": 824,
+        "old_point": 816
       }
     },
     {
@@ -144,11 +144,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
         "like": 173,
-        "old_like": 172,
+        "old_like": 173,
         "share": 80,
         "old_share": 80,
         "point": 413,
-        "old_point": 412
+        "old_point": 413
       }
     },
     {
@@ -159,11 +159,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
         "like": 44,
-        "old_like": 43,
+        "old_like": 44,
         "share": 3,
         "old_share": 3,
         "point": 53,
-        "old_point": 52
+        "old_point": 53
       }
     },
     {
@@ -188,11 +188,11 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
-        "like": 84,
+        "like": 85,
         "old_like": 84,
         "share": 16,
         "old_share": 16,
-        "point": 132,
+        "point": 133,
         "old_point": 132
       }
     },
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 96,
-        "old_like": 93,
+        "old_like": 96,
         "share": 62,
-        "old_share": 61,
+        "old_share": 62,
         "point": 282,
-        "old_point": 276
+        "old_point": 282
       }
     },
     {
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 125,
-        "old_like": 124,
+        "old_like": 125,
         "share": 65,
         "old_share": 65,
         "point": 320,
-        "old_point": 319
+        "old_point": 320
       }
     },
     {
