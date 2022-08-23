@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-24 01:22:48",
+  "updated_at": "2022-08-24 01:47:43",
   "data": [
     {
       "id": "1",
@@ -144,11 +144,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
         "like": 175,
-        "old_like": 174,
+        "old_like": 175,
         "share": 80,
         "old_share": 80,
         "point": 415,
-        "old_point": 414
+        "old_point": 415
       }
     },
     {
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 198,
-        "old_like": 197,
+        "old_like": 198,
         "share": 53,
-        "old_share": 52,
+        "old_share": 53,
         "point": 357,
-        "old_point": 353
+        "old_point": 357
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 378,
-        "old_like": 377,
+        "old_like": 378,
         "share": 214,
         "old_share": 214,
         "point": 1020,
-        "old_point": 1019
+        "old_point": 1020
       }
     },
     {
@@ -233,11 +233,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
-        "like": 102,
+        "like": 103,
         "old_like": 102,
         "share": 45,
         "old_share": 45,
-        "point": 237,
+        "point": 238,
         "old_point": 237
       }
     },
@@ -294,11 +294,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
         "like": 121,
-        "old_like": 120,
+        "old_like": 121,
         "share": 108,
         "old_share": 108,
         "point": 445,
-        "old_point": 444
+        "old_point": 445
       }
     },
     {
@@ -324,11 +324,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
         "like": 126,
-        "old_like": 125,
+        "old_like": 126,
         "share": 41,
-        "old_share": 40,
+        "old_share": 41,
         "point": 249,
-        "old_point": 245
+        "old_point": 249
       }
     }
   ]
