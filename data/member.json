@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 06:41:34",
+  "updated_at": "2022-08-23 09:00:27",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 412,
-        "old_like": 411,
+        "old_like": 412,
         "share": 216,
         "old_share": 216,
         "point": 1060,
-        "old_point": 1059
+        "old_point": 1060
       }
     },
     {
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 198,
-        "old_like": 197,
+        "old_like": 198,
         "share": 75,
-        "old_share": 73,
+        "old_share": 75,
         "point": 423,
-        "old_point": 416
+        "old_point": 423
       }
     },
     {
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 168,
+        "like": 169,
         "old_like": 168,
         "share": 53,
         "old_share": 53,
-        "point": 327,
+        "point": 328,
         "old_point": 327
       }
     },
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 225,
+        "like": 232,
         "old_like": 225,
-        "share": 183,
+        "share": 188,
         "old_share": 183,
-        "point": 774,
+        "point": 796,
         "old_point": 774
       }
     },
@@ -130,9 +130,9 @@
       "data": {
         "like": 195,
         "old_like": 195,
-        "share": 275,
+        "share": 276,
         "old_share": 275,
-        "point": 1020,
+        "point": 1023,
         "old_point": 1020
       }
     },
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 187,
-        "old_like": 186,
+        "old_like": 187,
         "share": 49,
         "old_share": 49,
         "point": 334,
-        "old_point": 333
+        "old_point": 334
       }
     },
     {
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 83,
-        "old_like": 82,
+        "old_like": 83,
         "share": 16,
         "old_share": 16,
         "point": 131,
-        "old_point": 130
+        "old_point": 131
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 157,
+        "like": 158,
         "old_like": 157,
-        "share": 142,
+        "share": 144,
         "old_share": 142,
-        "point": 583,
+        "point": 590,
         "old_point": 583
       }
     },
