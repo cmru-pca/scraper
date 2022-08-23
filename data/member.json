@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 15:47:18",
+  "updated_at": "2022-08-23 16:19:00",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 418,
+        "like": 419,
         "old_like": 418,
         "share": 222,
         "old_share": 222,
-        "point": 1084,
+        "point": 1085,
         "old_point": 1084
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 239,
-        "old_like": 237,
+        "old_like": 239,
         "share": 195,
-        "old_share": 193,
+        "old_share": 195,
         "point": 824,
-        "old_point": 816
+        "old_point": 824
       }
     },
     {
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 85,
-        "old_like": 84,
+        "old_like": 85,
         "share": 16,
         "old_share": 16,
         "point": 133,
-        "old_point": 132
+        "old_point": 133
       }
     },
     {
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 372,
+        "like": 373,
         "old_like": 372,
         "share": 208,
         "old_share": 208,
-        "point": 996,
+        "point": 997,
         "old_point": 996
       }
     },
@@ -323,11 +323,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
-        "like": 121,
+        "like": 122,
         "old_like": 121,
-        "share": 38,
+        "share": 39,
         "old_share": 38,
-        "point": 235,
+        "point": 239,
         "old_point": 235
       }
     }
