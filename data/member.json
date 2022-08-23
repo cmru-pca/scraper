@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 17:20:57",
+  "updated_at": "2022-08-23 17:43:53",
   "data": [
     {
       "id": "1",
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 240,
-        "old_like": 239,
+        "old_like": 240,
         "share": 195,
         "old_share": 195,
         "point": 825,
-        "old_point": 824
+        "old_point": 825
       }
     },
     {
@@ -128,11 +128,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 194,
+        "like": 195,
         "old_like": 194,
         "share": 276,
         "old_share": 276,
-        "point": 1022,
+        "point": 1023,
         "old_point": 1022
       }
     },
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 189,
-        "old_like": 187,
-        "share": 51,
-        "old_share": 49,
-        "point": 342,
-        "old_point": 334
+        "old_like": 189,
+        "share": 52,
+        "old_share": 51,
+        "point": 345,
+        "old_point": 342
       }
     },
     {
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 125,
+        "like": 126,
         "old_like": 125,
         "share": 26,
         "old_share": 26,
-        "point": 203,
+        "point": 204,
         "old_point": 203
       }
     },
@@ -308,12 +308,12 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 128,
-        "old_like": 126,
+        "like": 129,
+        "old_like": 128,
         "share": 65,
         "old_share": 65,
-        "point": 323,
-        "old_point": 321
+        "point": 324,
+        "old_point": 323
       }
     },
     {
@@ -324,11 +324,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
         "like": 124,
-        "old_like": 122,
+        "old_like": 124,
         "share": 40,
-        "old_share": 39,
+        "old_share": 40,
         "point": 244,
-        "old_point": 239
+        "old_point": 244
       }
     }
   ]
