@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 14:23:02",
+  "updated_at": "2022-08-23 15:23:56",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 191,
-        "old_like": 190,
+        "old_like": 191,
         "share": 80,
         "old_share": 80,
         "point": 431,
-        "old_point": 430
+        "old_point": 431
       }
     },
     {
@@ -55,9 +55,9 @@
       "data": {
         "like": 418,
         "old_like": 418,
-        "share": 221,
+        "share": 222,
         "old_share": 221,
-        "point": 1081,
+        "point": 1084,
         "old_point": 1081
       }
     },
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 203,
+        "like": 204,
         "old_like": 203,
-        "share": 183,
+        "share": 184,
         "old_share": 183,
-        "point": 752,
+        "point": 756,
         "old_point": 752
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 237,
-        "old_like": 236,
-        "share": 191,
+        "old_like": 237,
+        "share": 193,
         "old_share": 191,
-        "point": 810,
-        "old_point": 809
+        "point": 816,
+        "old_point": 810
       }
     },
     {
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 172,
+        "like": 173,
         "old_like": 172,
         "share": 80,
         "old_share": 80,
-        "point": 412,
+        "point": 413,
         "old_point": 412
       }
     },
@@ -158,11 +158,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
-        "like": 43,
+        "like": 44,
         "old_like": 43,
         "share": 3,
         "old_share": 3,
-        "point": 52,
+        "point": 53,
         "old_point": 52
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 372,
-        "old_like": 371,
+        "old_like": 372,
         "share": 208,
-        "old_share": 207,
+        "old_share": 208,
         "point": 996,
-        "old_point": 992
+        "old_point": 996
       }
     },
     {
@@ -219,11 +219,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
         "like": 53,
-        "old_like": 52,
+        "old_like": 53,
         "share": 19,
-        "old_share": 18,
+        "old_share": 19,
         "point": 110,
-        "old_point": 106
+        "old_point": 110
       }
     },
     {
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 124,
-        "old_like": 123,
+        "old_like": 124,
         "share": 26,
         "old_share": 26,
         "point": 202,
-        "old_point": 201
+        "old_point": 202
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 93,
-        "old_like": 83,
-        "share": 61,
-        "old_share": 56,
-        "point": 276,
-        "old_point": 251
+        "like": 96,
+        "old_like": 93,
+        "share": 62,
+        "old_share": 61,
+        "point": 282,
+        "old_point": 276
       }
     },
     {
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 124,
+        "like": 125,
         "old_like": 124,
         "share": 65,
         "old_share": 65,
-        "point": 319,
+        "point": 320,
         "old_point": 319
       }
     },
