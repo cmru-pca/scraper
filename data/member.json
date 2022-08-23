@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 17:43:53",
+  "updated_at": "2022-08-23 18:16:20",
   "data": [
     {
       "id": "1",
@@ -129,11 +129,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
         "like": 195,
-        "old_like": 194,
+        "old_like": 195,
         "share": 276,
         "old_share": 276,
         "point": 1023,
-        "old_point": 1022
+        "old_point": 1023
       }
     },
     {
@@ -173,12 +173,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 189,
+        "like": 191,
         "old_like": 189,
         "share": 52,
-        "old_share": 51,
-        "point": 345,
-        "old_point": 342
+        "old_share": 52,
+        "point": 347,
+        "old_point": 345
       }
     },
     {
@@ -205,9 +205,9 @@
       "data": {
         "like": 373,
         "old_like": 373,
-        "share": 208,
+        "share": 209,
         "old_share": 208,
-        "point": 997,
+        "point": 1000,
         "old_point": 997
       }
     },
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 126,
-        "old_like": 125,
+        "old_like": 126,
         "share": 26,
         "old_share": 26,
         "point": 204,
-        "old_point": 203
+        "old_point": 204
       }
     },
     {
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 97,
+        "like": 98,
         "old_like": 97,
-        "share": 64,
+        "share": 65,
         "old_share": 64,
-        "point": 289,
+        "point": 293,
         "old_point": 289
       }
     },
@@ -295,9 +295,9 @@
       "data": {
         "like": 119,
         "old_like": 119,
-        "share": 75,
+        "share": 95,
         "old_share": 75,
-        "point": 344,
+        "point": 404,
         "old_point": 344
       }
     },
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 129,
-        "old_like": 128,
+        "old_like": 129,
         "share": 65,
         "old_share": 65,
         "point": 324,
-        "old_point": 323
+        "old_point": 324
       }
     },
     {
