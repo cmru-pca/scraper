@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 16:19:00",
+  "updated_at": "2022-08-23 16:42:05",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 419,
-        "old_like": 418,
+        "like": 420,
+        "old_like": 419,
         "share": 222,
         "old_share": 222,
-        "point": 1085,
-        "old_point": 1084
+        "point": 1086,
+        "old_point": 1085
       }
     },
     {
@@ -128,11 +128,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208090304295",
       "data": {
-        "like": 195,
+        "like": 194,
         "old_like": 195,
         "share": 276,
         "old_share": 276,
-        "point": 1023,
+        "point": 1022,
         "old_point": 1023
       }
     },
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 173,
+        "like": 172,
         "old_like": 173,
         "share": 80,
         "old_share": 80,
-        "point": 413,
+        "point": 412,
         "old_point": 413
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 373,
-        "old_like": 372,
+        "old_like": 373,
         "share": 208,
         "old_share": 208,
         "point": 997,
-        "old_point": 996
+        "old_point": 997
       }
     },
     {
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 124,
+        "like": 125,
         "old_like": 124,
         "share": 26,
         "old_share": 26,
-        "point": 202,
+        "point": 203,
         "old_point": 202
       }
     },
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 96,
+        "like": 97,
         "old_like": 96,
-        "share": 62,
+        "share": 64,
         "old_share": 62,
-        "point": 282,
+        "point": 289,
         "old_point": 282
       }
     },
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 125,
+        "like": 126,
         "old_like": 125,
         "share": 65,
         "old_share": 65,
-        "point": 320,
+        "point": 321,
         "old_point": 320
       }
     },
@@ -324,11 +324,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
         "like": 122,
-        "old_like": 121,
+        "old_like": 122,
         "share": 39,
-        "old_share": 38,
+        "old_share": 39,
         "point": 239,
-        "old_point": 235
+        "old_point": 239
       }
     }
   ]
