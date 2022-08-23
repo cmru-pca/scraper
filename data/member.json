@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 18:16:20",
+  "updated_at": "2022-08-23 19:35:58",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 201,
+        "like": 202,
         "old_like": 201,
         "share": 75,
         "old_share": 75,
-        "point": 426,
+        "point": 427,
         "old_point": 426
       }
     },
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 240,
+        "like": 241,
         "old_like": 240,
         "share": 195,
         "old_share": 195,
-        "point": 825,
+        "point": 826,
         "old_point": 825
       }
     },
@@ -173,12 +173,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 191,
-        "old_like": 189,
+        "like": 194,
+        "old_like": 191,
         "share": 52,
         "old_share": 52,
-        "point": 347,
-        "old_point": 345
+        "point": 350,
+        "old_point": 347
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 373,
+        "like": 374,
         "old_like": 373,
         "share": 209,
-        "old_share": 208,
-        "point": 1000,
-        "old_point": 997
+        "old_share": 209,
+        "point": 1001,
+        "old_point": 1000
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 98,
-        "old_like": 97,
-        "share": 65,
-        "old_share": 64,
-        "point": 293,
-        "old_point": 289
+        "like": 99,
+        "old_like": 98,
+        "share": 67,
+        "old_share": 65,
+        "point": 300,
+        "old_point": 293
       }
     },
     {
@@ -296,9 +296,9 @@
         "like": 119,
         "old_like": 119,
         "share": 95,
-        "old_share": 75,
+        "old_share": 95,
         "point": 404,
-        "old_point": 344
+        "old_point": 404
       }
     },
     {
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 129,
+        "like": 130,
         "old_like": 129,
         "share": 65,
         "old_share": 65,
-        "point": 324,
+        "point": 325,
         "old_point": 324
       }
     },
