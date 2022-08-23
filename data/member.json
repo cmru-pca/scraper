@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 23:57:49",
+  "updated_at": "2022-08-24 00:24:46",
   "data": [
     {
       "id": "1",
@@ -38,11 +38,11 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
-        "like": 109,
+        "like": 110,
         "old_like": 109,
         "share": 25,
         "old_share": 25,
-        "point": 184,
+        "point": 185,
         "old_point": 184
       }
     },
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 160,
-        "old_like": 159,
+        "old_like": 160,
         "share": 144,
         "old_share": 144,
         "point": 592,
-        "old_point": 591
+        "old_point": 592
       }
     },
     {
