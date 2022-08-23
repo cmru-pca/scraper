@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-23 19:35:58",
+  "updated_at": "2022-08-23 20:39:07",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 420,
+        "like": 421,
         "old_like": 420,
         "share": 222,
         "old_share": 222,
-        "point": 1086,
+        "point": 1087,
         "old_point": 1086
       }
     },
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 202,
-        "old_like": 201,
+        "old_like": 202,
         "share": 75,
         "old_share": 75,
         "point": 427,
-        "old_point": 426
+        "old_point": 427
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 241,
-        "old_like": 240,
-        "share": 195,
+        "old_like": 241,
+        "share": 197,
         "old_share": 195,
-        "point": 826,
-        "old_point": 825
+        "point": 832,
+        "old_point": 826
       }
     },
     {
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 194,
-        "old_like": 191,
+        "old_like": 194,
         "share": 52,
         "old_share": 52,
         "point": 350,
-        "old_point": 347
+        "old_point": 350
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 374,
-        "old_like": 373,
+        "like": 375,
+        "old_like": 374,
         "share": 209,
         "old_share": 209,
-        "point": 1001,
-        "old_point": 1000
+        "point": 1002,
+        "old_point": 1001
       }
     },
     {
@@ -233,11 +233,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
-        "like": 99,
+        "like": 100,
         "old_like": 99,
         "share": 43,
         "old_share": 43,
-        "point": 228,
+        "point": 229,
         "old_point": 228
       }
     },
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 99,
-        "old_like": 98,
+        "like": 102,
+        "old_like": 99,
         "share": 67,
-        "old_share": 65,
-        "point": 300,
-        "old_point": 293
+        "old_share": 67,
+        "point": 303,
+        "old_point": 300
       }
     },
     {
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 130,
-        "old_like": 129,
+        "old_like": 130,
         "share": 65,
         "old_share": 65,
         "point": 325,
-        "old_point": 324
+        "old_point": 325
       }
     },
     {
