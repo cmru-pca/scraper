@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-24 23:55:30",
+  "updated_at": "2022-08-25 02:16:04",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 435,
+        "like": 436,
         "old_like": 435,
         "share": 244,
         "old_share": 244,
-        "point": 1167,
+        "point": 1168,
         "old_point": 1167
       }
     },
@@ -98,12 +98,12 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 175,
+        "like": 176,
         "old_like": 175,
         "share": 55,
-        "old_share": 54,
-        "point": 340,
-        "old_point": 337
+        "old_share": 55,
+        "point": 341,
+        "old_point": 340
       }
     },
     {
@@ -173,12 +173,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 203,
+        "like": 205,
         "old_like": 203,
-        "share": 54,
-        "old_share": 53,
-        "point": 365,
-        "old_point": 362
+        "share": 56,
+        "old_share": 54,
+        "point": 373,
+        "old_point": 365
       }
     },
     {
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 385,
+        "like": 386,
         "old_like": 385,
         "share": 220,
         "old_share": 220,
-        "point": 1045,
+        "point": 1046,
         "old_point": 1045
       }
     },
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 163,
+        "like": 164,
         "old_like": 163,
         "share": 145,
         "old_share": 145,
-        "point": 598,
+        "point": 599,
         "old_point": 598
       }
     },
