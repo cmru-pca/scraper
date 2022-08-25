@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-25 14:23:20",
+  "updated_at": "2022-08-25 16:42:47",
   "data": [
     {
       "id": "1",
@@ -24,11 +24,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
         "like": 137,
-        "old_like": 136,
+        "old_like": 137,
         "share": 61,
         "old_share": 61,
         "point": 320,
-        "old_point": 319
+        "old_point": 320
       }
     },
     {
@@ -55,9 +55,9 @@
       "data": {
         "like": 438,
         "old_like": 438,
-        "share": 244,
+        "share": 246,
         "old_share": 244,
-        "point": 1170,
+        "point": 1176,
         "old_point": 1170
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 263,
-        "old_like": 260,
+        "like": 264,
+        "old_like": 263,
         "share": 223,
-        "old_share": 222,
-        "point": 932,
-        "old_point": 926
+        "old_share": 223,
+        "point": 933,
+        "old_point": 932
       }
     },
     {
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 177,
+        "like": 178,
         "old_like": 177,
         "share": 80,
         "old_share": 80,
-        "point": 417,
+        "point": 418,
         "old_point": 417
       }
     },
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 122,
-        "old_like": 121,
+        "old_like": 122,
         "share": 117,
-        "old_share": 116,
+        "old_share": 117,
         "point": 473,
-        "old_point": 469
+        "old_point": 473
       }
     },
     {
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 165,
-        "old_like": 164,
+        "old_like": 165,
         "share": 145,
         "old_share": 145,
         "point": 600,
-        "old_point": 599
+        "old_point": 600
       }
     },
     {
@@ -324,11 +324,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
         "like": 129,
-        "old_like": 128,
+        "old_like": 129,
         "share": 41,
         "old_share": 41,
         "point": 252,
-        "old_point": 251
+        "old_point": 252
       }
     }
   ]
