@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-25 18:17:42",
+  "updated_at": "2022-08-25 23:25:33",
   "data": [
     {
       "id": "1",
@@ -55,9 +55,9 @@
       "data": {
         "like": 438,
         "old_like": 438,
-        "share": 246,
+        "share": 250,
         "old_share": 246,
-        "point": 1176,
+        "point": 1188,
         "old_point": 1176
       }
     },
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 207,
+        "like": 209,
         "old_like": 207,
-        "share": 75,
+        "share": 76,
         "old_share": 75,
-        "point": 432,
+        "point": 437,
         "old_point": 432
       }
     },
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 176,
+        "like": 177,
         "old_like": 176,
         "share": 55,
         "old_share": 55,
-        "point": 341,
+        "point": 342,
         "old_point": 341
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 265,
-        "old_like": 264,
+        "like": 268,
+        "old_like": 265,
         "share": 223,
         "old_share": 223,
-        "point": 934,
-        "old_point": 933
+        "point": 937,
+        "old_point": 934
       }
     },
     {
@@ -175,9 +175,9 @@
       "data": {
         "like": 206,
         "old_like": 206,
-        "share": 56,
+        "share": 55,
         "old_share": 56,
-        "point": 374,
+        "point": 371,
         "old_point": 374
       }
     },
@@ -205,9 +205,9 @@
       "data": {
         "like": 387,
         "old_like": 387,
-        "share": 220,
+        "share": 224,
         "old_share": 220,
-        "point": 1047,
+        "point": 1059,
         "old_point": 1047
       }
     },
@@ -233,11 +233,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
-        "like": 107,
+        "like": 108,
         "old_like": 107,
         "share": 53,
         "old_share": 53,
-        "point": 266,
+        "point": 267,
         "old_point": 266
       }
     },
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 122,
+        "like": 123,
         "old_like": 122,
-        "share": 117,
+        "share": 118,
         "old_share": 117,
-        "point": 473,
+        "point": 477,
         "old_point": 473
       }
     },
