@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-25 23:25:33",
+  "updated_at": "2022-08-26 02:15:55",
   "data": [
     {
       "id": "1",
@@ -55,10 +55,10 @@
       "data": {
         "like": 438,
         "old_like": 438,
-        "share": 250,
-        "old_share": 246,
-        "point": 1188,
-        "old_point": 1176
+        "share": 252,
+        "old_share": 250,
+        "point": 1194,
+        "old_point": 1188
       }
     },
     {
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 209,
-        "old_like": 207,
+        "old_like": 209,
         "share": 76,
-        "old_share": 75,
+        "old_share": 76,
         "point": 437,
-        "old_point": 432
+        "old_point": 437
       }
     },
     {
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 177,
-        "old_like": 176,
+        "old_like": 177,
         "share": 55,
         "old_share": 55,
         "point": 342,
-        "old_point": 341
+        "old_point": 342
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 268,
-        "old_like": 265,
+        "old_like": 268,
         "share": 223,
         "old_share": 223,
         "point": 937,
-        "old_point": 934
+        "old_point": 937
       }
     },
     {
@@ -176,9 +176,9 @@
         "like": 206,
         "old_like": 206,
         "share": 55,
-        "old_share": 56,
+        "old_share": 55,
         "point": 371,
-        "old_point": 374
+        "old_point": 371
       }
     },
     {
@@ -206,9 +206,9 @@
         "like": 387,
         "old_like": 387,
         "share": 224,
-        "old_share": 220,
+        "old_share": 224,
         "point": 1059,
-        "old_point": 1047
+        "old_point": 1059
       }
     },
     {
@@ -234,11 +234,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
         "like": 108,
-        "old_like": 107,
+        "old_like": 108,
         "share": 53,
         "old_share": 53,
         "point": 267,
-        "old_point": 266
+        "old_point": 267
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 123,
-        "old_like": 122,
+        "old_like": 123,
         "share": 118,
-        "old_share": 117,
+        "old_share": 118,
         "point": 477,
-        "old_point": 473
+        "old_point": 477
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 165,
+        "like": 166,
         "old_like": 165,
         "share": 145,
         "old_share": 145,
-        "point": 600,
+        "point": 601,
         "old_point": 600
       }
     },
