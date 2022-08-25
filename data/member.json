@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-26 02:15:55",
+  "updated_at": "2022-08-26 03:20:03",
   "data": [
     {
       "id": "1",
@@ -56,9 +56,9 @@
         "like": 438,
         "old_like": 438,
         "share": 252,
-        "old_share": 250,
+        "old_share": 252,
         "point": 1194,
-        "old_point": 1188
+        "old_point": 1194
       }
     },
     {
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 268,
+        "like": 269,
         "old_like": 268,
         "share": 223,
         "old_share": 223,
-        "point": 937,
+        "point": 938,
         "old_point": 937
       }
     },
@@ -278,12 +278,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 166,
-        "old_like": 165,
+        "like": 167,
+        "old_like": 166,
         "share": 145,
         "old_share": 145,
-        "point": 601,
-        "old_point": 600
+        "point": 602,
+        "old_point": 601
       }
     },
     {
