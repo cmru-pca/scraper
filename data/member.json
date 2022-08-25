@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-26 03:20:03",
+  "updated_at": "2022-08-26 04:17:22",
   "data": [
     {
       "id": "1",
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 269,
-        "old_like": 268,
+        "old_like": 269,
         "share": 223,
         "old_share": 223,
         "point": 938,
-        "old_point": 937
+        "old_point": 938
       }
     },
     {
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 167,
-        "old_like": 166,
+        "old_like": 167,
         "share": 145,
         "old_share": 145,
         "point": 602,
-        "old_point": 601
+        "old_point": 602
       }
     },
     {
