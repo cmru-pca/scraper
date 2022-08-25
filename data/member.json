@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-25 11:19:43",
+  "updated_at": "2022-08-25 14:23:20",
   "data": [
     {
       "id": "1",
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 136,
+        "like": 137,
         "old_like": 136,
         "share": 61,
         "old_share": 61,
-        "point": 319,
+        "point": 320,
         "old_point": 319
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 260,
-        "old_like": 258,
-        "share": 222,
-        "old_share": 220,
-        "point": 926,
-        "old_point": 918
+        "like": 263,
+        "old_like": 260,
+        "share": 223,
+        "old_share": 222,
+        "point": 932,
+        "old_point": 926
       }
     },
     {
@@ -191,9 +191,9 @@
         "like": 87,
         "old_like": 87,
         "share": 19,
-        "old_share": 17,
+        "old_share": 19,
         "point": 144,
-        "old_point": 138
+        "old_point": 144
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 121,
-        "old_like": 119,
-        "share": 116,
-        "old_share": 88,
-        "point": 469,
-        "old_point": 383
+        "like": 122,
+        "old_like": 121,
+        "share": 117,
+        "old_share": 116,
+        "point": 473,
+        "old_point": 469
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 164,
+        "like": 165,
         "old_like": 164,
         "share": 145,
         "old_share": 145,
-        "point": 599,
+        "point": 600,
         "old_point": 599
       }
     },
@@ -323,11 +323,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
-        "like": 128,
+        "like": 129,
         "old_like": 128,
         "share": 41,
         "old_share": 41,
-        "point": 251,
+        "point": 252,
         "old_point": 251
       }
     }
