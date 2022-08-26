@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-26 14:42:40",
+  "updated_at": "2022-08-26 16:42:23",
   "data": [
     {
       "id": "1",
@@ -24,11 +24,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
         "like": 138,
-        "old_like": 137,
+        "old_like": 138,
         "share": 62,
-        "old_share": 61,
+        "old_share": 62,
         "point": 324,
-        "old_point": 320
+        "old_point": 324
       }
     },
     {
@@ -39,11 +39,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208080304296",
       "data": {
         "like": 114,
-        "old_like": 113,
+        "old_like": 114,
         "share": 26,
         "old_share": 26,
         "point": 192,
-        "old_point": 191
+        "old_point": 192
       }
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 440,
-        "old_like": 437,
+        "old_like": 440,
         "share": 345,
-        "old_share": 252,
+        "old_share": 345,
         "point": 1475,
-        "old_point": 1193
+        "old_point": 1475
       }
     },
     {
@@ -146,9 +146,9 @@
         "like": 178,
         "old_like": 178,
         "share": 81,
-        "old_share": 80,
+        "old_share": 81,
         "point": 421,
-        "old_point": 418
+        "old_point": 421
       }
     },
     {
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 88,
-        "old_like": 87,
+        "old_like": 88,
         "share": 19,
         "old_share": 19,
         "point": 145,
-        "old_point": 144
+        "old_point": 145
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 388,
-        "old_like": 386,
+        "old_like": 388,
         "share": 249,
-        "old_share": 224,
+        "old_share": 249,
         "point": 1135,
-        "old_point": 1058
+        "old_point": 1135
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 125,
-        "old_like": 124,
+        "like": 126,
+        "old_like": 125,
         "share": 119,
-        "old_share": 118,
-        "point": 482,
-        "old_point": 478
+        "old_share": 119,
+        "point": 483,
+        "old_point": 482
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 167,
+        "like": 171,
         "old_like": 167,
-        "share": 145,
+        "share": 146,
         "old_share": 145,
-        "point": 602,
+        "point": 609,
         "old_point": 602
       }
     },
@@ -296,9 +296,9 @@
         "like": 123,
         "old_like": 123,
         "share": 136,
-        "old_share": 123,
+        "old_share": 136,
         "point": 531,
-        "old_point": 492
+        "old_point": 531
       }
     },
     {
