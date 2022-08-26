@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-26 23:27:00",
+  "updated_at": "2022-08-26 23:59:16",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 442,
-        "old_like": 441,
+        "old_like": 442,
         "share": 345,
         "old_share": 345,
         "point": 1477,
-        "old_point": 1476
+        "old_point": 1477
       }
     },
     {
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 178,
-        "old_like": 177,
+        "old_like": 178,
         "share": 64,
-        "old_share": 63,
+        "old_share": 64,
         "point": 370,
-        "old_point": 366
+        "old_point": 370
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 270,
-        "old_like": 269,
+        "old_like": 270,
         "share": 226,
         "old_share": 226,
         "point": 948,
-        "old_point": 947
+        "old_point": 948
       }
     },
     {
@@ -146,9 +146,9 @@
         "like": 178,
         "old_like": 178,
         "share": 84,
-        "old_share": 83,
+        "old_share": 84,
         "point": 430,
-        "old_point": 427
+        "old_point": 430
       }
     },
     {
@@ -234,11 +234,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
         "like": 109,
-        "old_like": 108,
+        "old_like": 109,
         "share": 53,
         "old_share": 53,
         "point": 268,
-        "old_point": 267
+        "old_point": 268
       }
     },
     {
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 133,
-        "old_like": 132,
+        "old_like": 133,
         "share": 30,
-        "old_share": 29,
+        "old_share": 30,
         "point": 223,
-        "old_point": 219
+        "old_point": 223
       }
     },
     {
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 176,
-        "old_like": 175,
+        "old_like": 176,
         "share": 146,
         "old_share": 146,
         "point": 614,
-        "old_point": 613
+        "old_point": 614
       }
     },
     {
