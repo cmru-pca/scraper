@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-26 17:44:37",
+  "updated_at": "2022-08-26 20:36:44",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 440,
+        "like": 441,
         "old_like": 440,
         "share": 345,
         "old_share": 345,
-        "point": 1475,
+        "point": 1476,
         "old_point": 1475
       }
     },
@@ -100,9 +100,9 @@
       "data": {
         "like": 177,
         "old_like": 177,
-        "share": 55,
+        "share": 63,
         "old_share": 55,
-        "point": 342,
+        "point": 366,
         "old_point": 342
       }
     },
@@ -115,9 +115,9 @@
       "data": {
         "like": 269,
         "old_like": 269,
-        "share": 223,
+        "share": 226,
         "old_share": 223,
-        "point": 938,
+        "point": 947,
         "old_point": 938
       }
     },
@@ -145,9 +145,9 @@
       "data": {
         "like": 178,
         "old_like": 178,
-        "share": 81,
+        "share": 83,
         "old_share": 81,
-        "point": 421,
+        "point": 427,
         "old_point": 421
       }
     },
@@ -173,12 +173,12 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 207,
-        "old_like": 206,
+        "like": 208,
+        "old_like": 207,
         "share": 55,
         "old_share": 55,
-        "point": 372,
-        "old_point": 371
+        "point": 373,
+        "old_point": 372
       }
     },
     {
@@ -250,9 +250,9 @@
       "data": {
         "like": 132,
         "old_like": 132,
-        "share": 26,
+        "share": 29,
         "old_share": 26,
-        "point": 210,
+        "point": 219,
         "old_point": 210
       }
     },
@@ -278,12 +278,12 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 173,
-        "old_like": 171,
+        "like": 174,
+        "old_like": 173,
         "share": 146,
         "old_share": 146,
-        "point": 611,
-        "old_point": 609
+        "point": 612,
+        "old_point": 611
       }
     },
     {
