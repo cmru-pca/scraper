@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-27 21:16:53",
+  "updated_at": "2022-08-27 22:19:08",
   "data": [
     {
       "id": "1",
@@ -235,10 +235,10 @@
       "data": {
         "like": 109,
         "old_like": 109,
-        "share": 56,
-        "old_share": 53,
-        "point": 277,
-        "old_point": 268
+        "share": 57,
+        "old_share": 56,
+        "point": 280,
+        "old_point": 277
       }
     },
     {
