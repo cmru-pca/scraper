@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-27 23:24:35",
+  "updated_at": "2022-08-27 23:54:52",
   "data": [
     {
       "id": "1",
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 134,
-        "old_like": 133,
+        "old_like": 134,
         "share": 30,
         "old_share": 30,
         "point": 224,
-        "old_point": 223
+        "old_point": 224
       }
     },
     {
