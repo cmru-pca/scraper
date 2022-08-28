@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-28 14:39:11",
+  "updated_at": "2022-08-28 15:22:43",
   "data": [
     {
       "id": "1",
@@ -218,11 +218,11 @@
       "major": "เทคโนโลยีสารสนเทศ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
-        "like": 54,
+        "like": 55,
         "old_like": 54,
         "share": 19,
         "old_share": 19,
-        "point": 111,
+        "point": 112,
         "old_point": 111
       }
     },
