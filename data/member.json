@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-28 21:39:56",
+  "updated_at": "2022-08-28 22:19:31",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 444,
-        "old_like": 443,
+        "old_like": 444,
         "share": 396,
         "old_share": 396,
         "point": 1632,
-        "old_point": 1631
+        "old_point": 1632
       }
     },
     {
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 210,
-        "old_like": 209,
+        "old_like": 210,
         "share": 186,
         "old_share": 186,
         "point": 768,
-        "old_point": 767
+        "old_point": 768
       }
     },
     {
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 179,
+        "like": 180,
         "old_like": 179,
         "share": 64,
         "old_share": 64,
-        "point": 371,
+        "point": 372,
         "old_point": 371
       }
     },
@@ -158,11 +158,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
-        "like": 48,
+        "like": 49,
         "old_like": 48,
         "share": 3,
         "old_share": 3,
-        "point": 57,
+        "point": 58,
         "old_point": 57
       }
     },
@@ -234,11 +234,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
         "like": 111,
-        "old_like": 110,
+        "old_like": 111,
         "share": 64,
         "old_share": 64,
         "point": 303,
-        "old_point": 302
+        "old_point": 303
       }
     },
     {
@@ -265,9 +265,9 @@
       "data": {
         "like": 129,
         "old_like": 129,
-        "share": 133,
+        "share": 134,
         "old_share": 133,
-        "point": 528,
+        "point": 531,
         "old_point": 528
       }
     },
