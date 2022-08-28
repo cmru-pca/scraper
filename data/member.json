@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-28 15:45:53",
+  "updated_at": "2022-08-28 16:41:31",
   "data": [
     {
       "id": "1",
@@ -9,11 +9,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
         "like": 195,
-        "old_like": 194,
+        "old_like": 195,
         "share": 80,
         "old_share": 80,
         "point": 435,
-        "old_point": 434
+        "old_point": 435
       }
     },
     {
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 133,
+        "like": 134,
         "old_like": 133,
         "share": 65,
         "old_share": 65,
-        "point": 328,
+        "point": 329,
         "old_point": 328
       }
     },
