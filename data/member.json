@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-28 20:47:59",
+  "updated_at": "2022-08-28 21:16:46",
   "data": [
     {
       "id": "1",
@@ -144,11 +144,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
         "like": 180,
-        "old_like": 179,
+        "old_like": 180,
         "share": 86,
-        "old_share": 85,
+        "old_share": 86,
         "point": 438,
-        "old_point": 434
+        "old_point": 438
       }
     },
     {
@@ -173,11 +173,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 211,
+        "like": 212,
         "old_like": 211,
         "share": 55,
         "old_share": 55,
-        "point": 376,
+        "point": 377,
         "old_point": 376
       }
     },
@@ -191,9 +191,9 @@
         "like": 88,
         "old_like": 88,
         "share": 18,
-        "old_share": 19,
+        "old_share": 18,
         "point": 142,
-        "old_point": 145
+        "old_point": 142
       }
     },
     {
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 128,
+        "like": 129,
         "old_like": 128,
         "share": 133,
         "old_share": 133,
-        "point": 527,
+        "point": 528,
         "old_point": 527
       }
     },
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 135,
-        "old_like": 134,
+        "old_like": 135,
         "share": 66,
-        "old_share": 65,
+        "old_share": 66,
         "point": 333,
-        "old_point": 329
+        "old_point": 333
       }
     },
     {
