@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-28 22:19:31",
+  "updated_at": "2022-08-28 23:24:43",
   "data": [
     {
       "id": "1",
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 180,
-        "old_like": 179,
+        "old_like": 180,
         "share": 64,
         "old_share": 64,
         "point": 372,
-        "old_point": 371
+        "old_point": 372
       }
     },
     {
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 271,
+        "like": 272,
         "old_like": 271,
         "share": 405,
         "old_share": 405,
-        "point": 1486,
+        "point": 1487,
         "old_point": 1486
       }
     },
@@ -159,11 +159,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
         "like": 49,
-        "old_like": 48,
+        "old_like": 49,
         "share": 3,
         "old_share": 3,
         "point": 58,
-        "old_point": 57
+        "old_point": 58
       }
     },
     {
@@ -266,9 +266,9 @@
         "like": 129,
         "old_like": 129,
         "share": 134,
-        "old_share": 133,
+        "old_share": 134,
         "point": 531,
-        "old_point": 528
+        "old_point": 531
       }
     },
     {
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 135,
+        "like": 136,
         "old_like": 135,
         "share": 66,
         "old_share": 66,
-        "point": 333,
+        "point": 334,
         "old_point": 333
       }
     },
