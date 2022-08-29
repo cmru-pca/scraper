@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-29 19:37:47",
+  "updated_at": "2022-08-29 20:40:22",
   "data": [
     {
       "id": "1",
@@ -56,9 +56,9 @@
         "like": 445,
         "old_like": 445,
         "share": 528,
-        "old_share": 396,
+        "old_share": 528,
         "point": 2029,
-        "old_point": 1633
+        "old_point": 2029
       }
     },
     {
@@ -115,9 +115,9 @@
       "data": {
         "like": 273,
         "old_like": 273,
-        "share": 405,
+        "share": 410,
         "old_share": 405,
-        "point": 1488,
+        "point": 1503,
         "old_point": 1488
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 390,
-        "old_like": 389,
+        "old_like": 390,
         "share": 328,
-        "old_share": 296,
+        "old_share": 328,
         "point": 1374,
-        "old_point": 1277
+        "old_point": 1374
       }
     },
     {
@@ -249,11 +249,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
         "like": 136,
-        "old_like": 135,
+        "old_like": 136,
         "share": 30,
         "old_share": 30,
         "point": 226,
-        "old_point": 225
+        "old_point": 226
       }
     },
     {
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 131,
+        "like": 132,
         "old_like": 131,
-        "share": 183,
+        "share": 314,
         "old_share": 183,
-        "point": 680,
+        "point": 1074,
         "old_point": 680
       }
     },
@@ -279,11 +279,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
         "like": 181,
-        "old_like": 180,
+        "old_like": 181,
         "share": 147,
         "old_share": 147,
         "point": 622,
-        "old_point": 621
+        "old_point": 622
       }
     },
     {
