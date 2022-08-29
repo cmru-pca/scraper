@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-29 15:25:14",
+  "updated_at": "2022-08-29 15:50:07",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 214,
+        "like": 215,
         "old_like": 214,
-        "share": 76,
+        "share": 77,
         "old_share": 76,
-        "point": 442,
+        "point": 446,
         "old_point": 442
       }
     },
