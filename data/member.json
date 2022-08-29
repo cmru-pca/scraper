@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-29 16:19:16",
+  "updated_at": "2022-08-29 16:43:05",
   "data": [
     {
       "id": "1",
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 212,
+        "like": 213,
         "old_like": 212,
-        "share": 186,
+        "share": 187,
         "old_share": 186,
-        "point": 770,
+        "point": 774,
         "old_point": 770
       }
     },
