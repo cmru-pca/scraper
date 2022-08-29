@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-29 17:21:56",
+  "updated_at": "2022-08-29 19:37:47",
   "data": [
     {
       "id": "1",
@@ -55,9 +55,9 @@
       "data": {
         "like": 445,
         "old_like": 445,
-        "share": 396,
+        "share": 528,
         "old_share": 396,
-        "point": 1633,
+        "point": 2029,
         "old_point": 1633
       }
     },
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 389,
+        "like": 390,
         "old_like": 389,
-        "share": 296,
+        "share": 328,
         "old_share": 296,
-        "point": 1277,
+        "point": 1374,
         "old_point": 1277
       }
     },
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 135,
+        "like": 136,
         "old_like": 135,
         "share": 30,
         "old_share": 30,
-        "point": 225,
+        "point": 226,
         "old_point": 225
       }
     },
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 180,
+        "like": 181,
         "old_like": 180,
         "share": 147,
         "old_share": 147,
-        "point": 621,
+        "point": 622,
         "old_point": 621
       }
     },
