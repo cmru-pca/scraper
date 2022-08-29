@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-29 23:26:33",
+  "updated_at": "2022-08-29 23:59:45",
   "data": [
     {
       "id": "1",
@@ -56,9 +56,9 @@
         "like": 445,
         "old_like": 445,
         "share": 532,
-        "old_share": 528,
+        "old_share": 532,
         "point": 2041,
-        "old_point": 2029
+        "old_point": 2041
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 181,
+        "like": 182,
         "old_like": 181,
         "share": 147,
         "old_share": 147,
-        "point": 622,
+        "point": 623,
         "old_point": 622
       }
     },
