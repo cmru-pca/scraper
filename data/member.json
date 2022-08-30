@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 11:30:05",
+  "updated_at": "2022-08-30 13:00:09",
   "data": [
     {
       "id": "1",
@@ -68,12 +68,12 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 217,
-        "old_like": 215,
+        "like": 218,
+        "old_like": 217,
         "share": 77,
         "old_share": 77,
-        "point": 448,
-        "old_point": 446
+        "point": 449,
+        "old_point": 448
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 516,
-        "old_like": 517,
+        "old_like": 516,
         "share": 328,
         "old_share": 328,
         "point": 1500,
-        "old_point": 1501
+        "old_point": 1500
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 134,
-        "old_like": 133,
-        "share": 344,
-        "old_share": 316,
-        "point": 1166,
-        "old_point": 1081
+        "like": 135,
+        "old_like": 134,
+        "share": 345,
+        "old_share": 344,
+        "point": 1170,
+        "old_point": 1166
       }
     },
     {
