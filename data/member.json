@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 13:56:57",
+  "updated_at": "2022-08-30 14:28:08",
   "data": [
     {
       "id": "1",
@@ -174,11 +174,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
         "like": 215,
-        "old_like": 214,
+        "old_like": 215,
         "share": 55,
         "old_share": 55,
         "point": 380,
-        "old_point": 379
+        "old_point": 380
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 515,
-        "old_like": 516,
+        "old_like": 515,
         "share": 328,
         "old_share": 328,
         "point": 1499,
-        "old_point": 1500
+        "old_point": 1499
       }
     },
     {
@@ -218,11 +218,11 @@
       "major": "เทคโนโลยีสารสนเทศ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
-        "like": 56,
+        "like": 57,
         "old_like": 56,
         "share": 19,
         "old_share": 19,
-        "point": 113,
+        "point": 114,
         "old_point": 113
       }
     },
