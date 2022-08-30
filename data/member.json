@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 06:45:09",
+  "updated_at": "2022-08-30 09:10:56",
   "data": [
     {
       "id": "1",
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 273,
+        "like": 274,
         "old_like": 273,
-        "share": 410,
+        "share": 412,
         "old_share": 410,
-        "point": 1503,
+        "point": 1510,
         "old_point": 1503
       }
     },
@@ -158,11 +158,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
-        "like": 50,
+        "like": 51,
         "old_like": 50,
         "share": 3,
         "old_share": 3,
-        "point": 59,
+        "point": 60,
         "old_point": 59
       }
     },
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 390,
+        "like": 517,
         "old_like": 390,
         "share": 328,
         "old_share": 328,
-        "point": 1374,
+        "point": 1501,
         "old_point": 1374
       }
     },
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 132,
+        "like": 133,
         "old_like": 132,
-        "share": 314,
+        "share": 316,
         "old_share": 314,
-        "point": 1074,
+        "point": 1081,
         "old_point": 1074
       }
     },
