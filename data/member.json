@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 17:43:42",
+  "updated_at": "2022-08-30 18:17:08",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 445,
+        "like": 446,
         "old_like": 445,
-        "share": 532,
+        "share": 543,
         "old_share": 532,
-        "point": 2041,
+        "point": 2075,
         "old_point": 2041
       }
     },
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 181,
+        "like": 182,
         "old_like": 181,
         "share": 64,
         "old_share": 64,
-        "point": 373,
+        "point": 374,
         "old_point": 373
       }
     },
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 514,
+        "like": 512,
         "old_like": 514,
-        "share": 328,
+        "share": 334,
         "old_share": 328,
-        "point": 1498,
+        "point": 1514,
         "old_point": 1498
       }
     },
