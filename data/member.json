@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 15:25:08",
+  "updated_at": "2022-08-30 15:48:18",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 218,
+        "like": 219,
         "old_like": 218,
-        "share": 77,
+        "share": 79,
         "old_share": 77,
-        "point": 449,
+        "point": 456,
         "old_point": 449
       }
     },
@@ -84,11 +84,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
         "like": 214,
-        "old_like": 213,
+        "old_like": 214,
         "share": 187,
         "old_share": 187,
         "point": 775,
-        "old_point": 774
+        "old_point": 775
       }
     },
     {
