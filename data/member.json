@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 09:10:56",
+  "updated_at": "2022-08-30 11:30:05",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 215,
+        "like": 217,
         "old_like": 215,
         "share": 77,
         "old_share": 77,
-        "point": 446,
+        "point": 448,
         "old_point": 446
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 274,
-        "old_like": 273,
+        "old_like": 274,
         "share": 412,
-        "old_share": 410,
+        "old_share": 412,
         "point": 1510,
-        "old_point": 1503
+        "old_point": 1510
       }
     },
     {
@@ -159,11 +159,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
         "like": 51,
-        "old_like": 50,
+        "old_like": 51,
         "share": 3,
         "old_share": 3,
         "point": 60,
-        "old_point": 59
+        "old_point": 60
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 517,
-        "old_like": 390,
+        "like": 516,
+        "old_like": 517,
         "share": 328,
         "old_share": 328,
-        "point": 1501,
-        "old_point": 1374
+        "point": 1500,
+        "old_point": 1501
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 133,
-        "old_like": 132,
-        "share": 316,
-        "old_share": 314,
-        "point": 1081,
-        "old_point": 1074
+        "like": 134,
+        "old_like": 133,
+        "share": 344,
+        "old_share": 316,
+        "point": 1166,
+        "old_point": 1081
       }
     },
     {
