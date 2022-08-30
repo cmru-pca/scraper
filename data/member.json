@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 00:45:34",
+  "updated_at": "2022-08-31 01:23:28",
   "data": [
     {
       "id": "1",
@@ -55,10 +55,10 @@
       "data": {
         "like": 459,
         "old_like": 459,
-        "share": 941,
-        "old_share": 920,
-        "point": 3282,
-        "old_point": 3219
+        "share": 951,
+        "old_share": 941,
+        "point": 3312,
+        "old_point": 3282
       }
     },
     {
@@ -205,10 +205,10 @@
       "data": {
         "like": 524,
         "old_like": 524,
-        "share": 706,
-        "old_share": 703,
-        "point": 2642,
-        "old_point": 2633
+        "share": 721,
+        "old_share": 706,
+        "point": 2687,
+        "old_point": 2642
       }
     },
     {
