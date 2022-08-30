@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 23:28:26",
+  "updated_at": "2022-08-31 00:03:30",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 458,
+        "like": 459,
         "old_like": 458,
-        "share": 919,
+        "share": 920,
         "old_share": 919,
-        "point": 3215,
+        "point": 3219,
         "old_point": 3215
       }
     },
@@ -69,11 +69,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
         "like": 220,
-        "old_like": 219,
+        "old_like": 220,
         "share": 80,
-        "old_share": 79,
+        "old_share": 80,
         "point": 460,
-        "old_point": 456
+        "old_point": 460
       }
     },
     {
@@ -158,11 +158,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208066970964",
       "data": {
-        "like": 51,
+        "like": 52,
         "old_like": 51,
         "share": 3,
         "old_share": 3,
-        "point": 60,
+        "point": 61,
         "old_point": 60
       }
     },
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 523,
+        "like": 524,
         "old_like": 523,
-        "share": 702,
+        "share": 703,
         "old_share": 702,
-        "point": 2629,
+        "point": 2633,
         "old_point": 2629
       }
     },
