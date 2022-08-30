@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-30 20:43:27",
+  "updated_at": "2022-08-30 21:19:29",
   "data": [
     {
       "id": "1",
@@ -25,9 +25,9 @@
       "data": {
         "like": 139,
         "old_like": 139,
-        "share": 61,
+        "share": 60,
         "old_share": 61,
-        "point": 322,
+        "point": 319,
         "old_point": 322
       }
     },
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 458,
-        "old_like": 457,
-        "share": 911,
-        "old_share": 896,
-        "point": 3191,
-        "old_point": 3145
+        "old_like": 458,
+        "share": 919,
+        "old_share": 911,
+        "point": 3215,
+        "old_point": 3191
       }
     },
     {
@@ -101,9 +101,9 @@
         "like": 182,
         "old_like": 182,
         "share": 65,
-        "old_share": 64,
+        "old_share": 65,
         "point": 377,
-        "old_point": 374
+        "old_point": 377
       }
     },
     {
@@ -145,9 +145,9 @@
       "data": {
         "like": 181,
         "old_like": 181,
-        "share": 86,
+        "share": 85,
         "old_share": 86,
-        "point": 439,
+        "point": 436,
         "old_point": 439
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 523,
-        "old_like": 522,
-        "share": 697,
-        "old_share": 677,
-        "point": 2614,
-        "old_point": 2553
+        "old_like": 523,
+        "share": 702,
+        "old_share": 697,
+        "point": 2629,
+        "old_point": 2614
       }
     },
     {
@@ -251,9 +251,9 @@
         "like": 136,
         "old_like": 136,
         "share": 32,
-        "old_share": 30,
+        "old_share": 32,
         "point": 232,
-        "old_point": 226
+        "old_point": 232
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 138,
-        "old_like": 137,
+        "old_like": 138,
         "share": 363,
         "old_share": 363,
         "point": 1227,
-        "old_point": 1226
+        "old_point": 1227
       }
     },
     {
@@ -295,9 +295,9 @@
       "data": {
         "like": 125,
         "old_like": 125,
-        "share": 136,
+        "share": 135,
         "old_share": 136,
-        "point": 533,
+        "point": 530,
         "old_point": 533
       }
     },
@@ -308,11 +308,11 @@
       "major": "เทคโนโลยีวิศวกรรมการก่อสร้าง",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
-        "like": 137,
+        "like": 138,
         "old_like": 137,
         "share": 67,
         "old_share": 67,
-        "point": 338,
+        "point": 339,
         "old_point": 338
       }
     },
