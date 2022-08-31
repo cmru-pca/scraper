@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 09:22:37",
+  "updated_at": "2022-08-31 11:41:02",
   "data": [
     {
       "id": "1",
@@ -8,11 +8,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 197,
+        "like": 198,
         "old_like": 197,
         "share": 80,
         "old_share": 80,
-        "point": 437,
+        "point": 438,
         "old_point": 437
       }
     },
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 139,
+        "like": 140,
         "old_like": 139,
         "share": 60,
         "old_share": 60,
-        "point": 319,
+        "point": 320,
         "old_point": 319
       }
     },
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 459,
+        "like": 586,
         "old_like": 459,
-        "share": 951,
+        "share": 954,
         "old_share": 951,
-        "point": 3312,
+        "point": 3448,
         "old_point": 3312
       }
     },
@@ -205,9 +205,9 @@
       "data": {
         "like": 524,
         "old_like": 524,
-        "share": 721,
+        "share": 725,
         "old_share": 721,
-        "point": 2687,
+        "point": 2699,
         "old_point": 2687
       }
     },
