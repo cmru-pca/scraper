@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 19:40:09",
+  "updated_at": "2022-08-31 20:40:58",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 588,
-        "old_like": 587,
-        "share": 1096,
+        "old_like": 588,
+        "share": 1097,
         "old_share": 1096,
-        "point": 3876,
-        "old_point": 3875
+        "point": 3879,
+        "old_point": 3876
       }
     },
     {
@@ -143,11 +143,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
-        "like": 182,
+        "like": 183,
         "old_like": 182,
-        "share": 85,
+        "share": 86,
         "old_share": 85,
-        "point": 437,
+        "point": 441,
         "old_point": 437
       }
     },
@@ -309,11 +309,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741211016970669",
       "data": {
         "like": 139,
-        "old_like": 138,
+        "old_like": 139,
         "share": 67,
         "old_share": 67,
         "point": 340,
-        "old_point": 339
+        "old_point": 340
       }
     },
     {
