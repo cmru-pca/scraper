@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 14:54:33",
+  "updated_at": "2022-08-31 15:23:30",
   "data": [
     {
       "id": "1",
@@ -53,11 +53,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 585,
+        "like": 586,
         "old_like": 585,
-        "share": 955,
+        "share": 979,
         "old_share": 955,
-        "point": 3450,
+        "point": 3523,
         "old_point": 3450
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 282,
-        "old_like": 276,
-        "share": 712,
-        "old_share": 412,
-        "point": 2418,
-        "old_point": 1512
+        "like": 283,
+        "old_like": 282,
+        "share": 859,
+        "old_share": 712,
+        "point": 2860,
+        "old_point": 2418
       }
     },
     {
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 523,
+        "like": 524,
         "old_like": 523,
-        "share": 726,
+        "share": 765,
         "old_share": 726,
-        "point": 2701,
+        "point": 2819,
         "old_point": 2701
       }
     },
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 143,
-        "old_like": 140,
-        "share": 742,
-        "old_share": 378,
-        "point": 2369,
-        "old_point": 1274
+        "like": 144,
+        "old_like": 143,
+        "share": 767,
+        "old_share": 742,
+        "point": 2445,
+        "old_point": 2369
       }
     },
     {
