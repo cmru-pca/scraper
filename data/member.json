@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 15:23:30",
+  "updated_at": "2022-08-31 15:48:55",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 586,
-        "old_like": 585,
-        "share": 979,
-        "old_share": 955,
-        "point": 3523,
-        "old_point": 3450
+        "like": 589,
+        "old_like": 586,
+        "share": 1056,
+        "old_share": 979,
+        "point": 3757,
+        "old_point": 3523
       }
     },
     {
@@ -70,9 +70,9 @@
       "data": {
         "like": 220,
         "old_like": 220,
-        "share": 80,
+        "share": 81,
         "old_share": 80,
-        "point": 460,
+        "point": 463,
         "old_point": 460
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 283,
-        "old_like": 282,
-        "share": 859,
-        "old_share": 712,
-        "point": 2860,
-        "old_point": 2418
+        "old_like": 283,
+        "share": 862,
+        "old_share": 859,
+        "point": 2869,
+        "old_point": 2860
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 524,
-        "old_like": 523,
-        "share": 765,
-        "old_share": 726,
-        "point": 2819,
-        "old_point": 2701
+        "like": 528,
+        "old_like": 524,
+        "share": 1047,
+        "old_share": 765,
+        "point": 3669,
+        "old_point": 2819
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 144,
-        "old_like": 143,
-        "share": 767,
-        "old_share": 742,
-        "point": 2445,
-        "old_point": 2369
+        "old_like": 144,
+        "share": 770,
+        "old_share": 767,
+        "point": 2454,
+        "old_point": 2445
       }
     },
     {
