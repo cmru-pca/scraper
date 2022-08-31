@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-08-31 17:21:04",
+  "updated_at": "2022-08-31 17:44:30",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 587,
-        "old_like": 588,
-        "share": 1057,
+        "old_like": 587,
+        "share": 1089,
         "old_share": 1057,
-        "point": 3758,
-        "old_point": 3759
+        "point": 3854,
+        "old_point": 3758
       }
     },
     {
@@ -116,9 +116,9 @@
         "like": 285,
         "old_like": 285,
         "share": 864,
-        "old_share": 863,
+        "old_share": 864,
         "point": 2877,
-        "old_point": 2874
+        "old_point": 2877
       }
     },
     {
@@ -233,11 +233,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
-        "like": 112,
+        "like": 113,
         "old_like": 112,
-        "share": 64,
+        "share": 65,
         "old_share": 64,
-        "point": 304,
+        "point": 308,
         "old_point": 304
       }
     },
