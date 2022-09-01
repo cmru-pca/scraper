@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 06:44:30",
+  "updated_at": "2022-09-01 08:54:38",
   "data": [
     {
       "id": "1",
@@ -55,9 +55,9 @@
       "data": {
         "like": 590,
         "old_like": 590,
-        "share": 1146,
+        "share": 1160,
         "old_share": 1146,
-        "point": 4028,
+        "point": 4070,
         "old_point": 4028
       }
     },
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 182,
+        "like": 183,
         "old_like": 182,
         "share": 65,
         "old_share": 65,
-        "point": 377,
+        "point": 378,
         "old_point": 377
       }
     },
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 287,
+        "like": 289,
         "old_like": 287,
-        "share": 1028,
+        "share": 1309,
         "old_share": 1028,
-        "point": 3371,
+        "point": 4216,
         "old_point": 3371
       }
     },
@@ -205,9 +205,9 @@
       "data": {
         "like": 531,
         "old_like": 531,
-        "share": 1107,
+        "share": 1113,
         "old_share": 1107,
-        "point": 3852,
+        "point": 3870,
         "old_point": 3852
       }
     },
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 148,
+        "like": 150,
         "old_like": 148,
-        "share": 974,
+        "share": 1395,
         "old_share": 974,
-        "point": 3070,
+        "point": 4335,
         "old_point": 3070
       }
     },
