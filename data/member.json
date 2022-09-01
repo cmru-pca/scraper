@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 15:26:45",
+  "updated_at": "2022-09-01 15:50:47",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 609,
-        "old_like": 606,
-        "share": 3287,
-        "old_share": 2677,
-        "point": 10470,
-        "old_point": 8637
+        "like": 608,
+        "old_like": 609,
+        "share": 3556,
+        "old_share": 3287,
+        "point": 11276,
+        "old_point": 10470
       }
     },
     {
@@ -101,9 +101,9 @@
         "like": 184,
         "old_like": 184,
         "share": 88,
-        "old_share": 65,
+        "old_share": 88,
         "point": 448,
-        "old_point": 379
+        "old_point": 448
       }
     },
     {
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 294,
-        "old_like": 292,
+        "like": 295,
+        "old_like": 294,
         "share": 2943,
-        "old_share": 2730,
-        "point": 9123,
-        "old_point": 8482
+        "old_share": 2943,
+        "point": 9124,
+        "old_point": 9123
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 556,
-        "old_like": 553,
-        "share": 2325,
-        "old_share": 2082,
-        "point": 7531,
-        "old_point": 6799
+        "like": 555,
+        "old_like": 556,
+        "share": 2417,
+        "old_share": 2325,
+        "point": 7806,
+        "old_point": 7531
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 159,
+        "like": 160,
         "old_like": 159,
-        "share": 2462,
-        "old_share": 2417,
-        "point": 7545,
-        "old_point": 7410
+        "share": 2474,
+        "old_share": 2462,
+        "point": 7582,
+        "old_point": 7545
       }
     },
     {
