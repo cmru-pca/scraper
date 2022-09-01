@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 16:43:06",
+  "updated_at": "2022-09-01 17:21:33",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 608,
-        "old_like": 609,
-        "share": 4067,
-        "old_share": 3895,
-        "point": 12809,
-        "old_point": 12294
+        "old_like": 608,
+        "share": 4070,
+        "old_share": 4067,
+        "point": 12818,
+        "old_point": 12809
       }
     },
     {
@@ -116,9 +116,9 @@
         "like": 296,
         "old_like": 296,
         "share": 3409,
-        "old_share": 3402,
+        "old_share": 3409,
         "point": 10523,
-        "old_point": 10502
+        "old_point": 10523
       }
     },
     {
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 92,
-        "old_like": 91,
+        "old_like": 92,
         "share": 20,
         "old_share": 20,
         "point": 152,
-        "old_point": 151
+        "old_point": 152
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 555,
+        "like": 556,
         "old_like": 555,
-        "share": 2704,
-        "old_share": 2596,
-        "point": 8667,
-        "old_point": 8343
+        "share": 2737,
+        "old_share": 2704,
+        "point": 8767,
+        "old_point": 8667
       }
     },
     {
@@ -219,11 +219,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208510304253",
       "data": {
         "like": 59,
-        "old_like": 57,
+        "old_like": 59,
         "share": 19,
         "old_share": 19,
         "point": 116,
-        "old_point": 114
+        "old_point": 116
       }
     },
     {
@@ -234,11 +234,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208530304251",
       "data": {
         "like": 117,
-        "old_like": 116,
+        "old_like": 117,
         "share": 66,
         "old_share": 66,
         "point": 315,
-        "old_point": 314
+        "old_point": 315
       }
     },
     {
@@ -265,10 +265,10 @@
       "data": {
         "like": 160,
         "old_like": 160,
-        "share": 2523,
-        "old_share": 2507,
-        "point": 7729,
-        "old_point": 7681
+        "share": 2546,
+        "old_share": 2523,
+        "point": 7798,
+        "old_point": 7729
       }
     },
     {
