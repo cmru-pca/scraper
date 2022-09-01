@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 19:38:01",
+  "updated_at": "2022-09-01 20:37:21",
   "data": [
     {
       "id": "1",
@@ -8,11 +8,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 200,
+        "like": 201,
         "old_like": 200,
         "share": 80,
         "old_share": 80,
-        "point": 440,
+        "point": 441,
         "old_point": 440
       }
     },
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 141,
+        "like": 142,
         "old_like": 141,
         "share": 60,
         "old_share": 60,
-        "point": 321,
+        "point": 322,
         "old_point": 321
       }
     },
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 612,
-        "old_like": 611,
-        "share": 4271,
-        "old_share": 4226,
-        "point": 13425,
-        "old_point": 13289
+        "like": 615,
+        "old_like": 612,
+        "share": 4625,
+        "old_share": 4271,
+        "point": 14490,
+        "old_point": 13425
       }
     },
     {
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 215,
+        "like": 216,
         "old_like": 215,
         "share": 186,
         "old_share": 186,
-        "point": 773,
+        "point": 774,
         "old_point": 773
       }
     },
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 296,
+        "like": 298,
         "old_like": 296,
-        "share": 4410,
+        "share": 4748,
         "old_share": 4410,
-        "point": 13526,
+        "point": 14542,
         "old_point": 13526
       }
     },
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 561,
-        "old_like": 560,
-        "share": 3313,
-        "old_share": 3248,
-        "point": 10500,
-        "old_point": 10304
+        "like": 562,
+        "old_like": 561,
+        "share": 3429,
+        "old_share": 3313,
+        "point": 10849,
+        "old_point": 10500
       }
     },
     {
@@ -263,11 +263,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 160,
+        "like": 166,
         "old_like": 160,
-        "share": 2699,
+        "share": 2850,
         "old_share": 2699,
-        "point": 8257,
+        "point": 8716,
         "old_point": 8257
       }
     },
