@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 15:50:47",
+  "updated_at": "2022-09-01 16:18:54",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 608,
-        "old_like": 609,
-        "share": 3556,
-        "old_share": 3287,
-        "point": 11276,
-        "old_point": 10470
+        "like": 609,
+        "old_like": 608,
+        "share": 3895,
+        "old_share": 3556,
+        "point": 12294,
+        "old_point": 11276
       }
     },
     {
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 295,
-        "old_like": 294,
-        "share": 2943,
+        "like": 296,
+        "old_like": 295,
+        "share": 3402,
         "old_share": 2943,
-        "point": 9124,
-        "old_point": 9123
+        "point": 10502,
+        "old_point": 9124
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 555,
-        "old_like": 556,
-        "share": 2417,
-        "old_share": 2325,
-        "point": 7806,
-        "old_point": 7531
+        "old_like": 555,
+        "share": 2596,
+        "old_share": 2417,
+        "point": 8343,
+        "old_point": 7806
       }
     },
     {
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 137,
+        "like": 136,
         "old_like": 137,
         "share": 32,
         "old_share": 32,
-        "point": 233,
+        "point": 232,
         "old_point": 233
       }
     },
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 160,
-        "old_like": 159,
-        "share": 2474,
-        "old_share": 2462,
-        "point": 7582,
-        "old_point": 7545
+        "old_like": 160,
+        "share": 2507,
+        "old_share": 2474,
+        "point": 7681,
+        "old_point": 7582
       }
     },
     {
