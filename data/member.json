@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 12:38:58",
+  "updated_at": "2022-09-01 14:20:31",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 590,
-        "old_like": 591,
-        "share": 1161,
-        "old_share": 1160,
-        "point": 4073,
-        "old_point": 4071
+        "like": 606,
+        "old_like": 590,
+        "share": 2319,
+        "old_share": 1161,
+        "point": 7563,
+        "old_point": 4073
       }
     },
     {
@@ -83,11 +83,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208060304298",
       "data": {
-        "like": 214,
+        "like": 215,
         "old_like": 214,
         "share": 186,
         "old_share": 186,
-        "point": 772,
+        "point": 773,
         "old_point": 772
       }
     },
@@ -99,11 +99,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
         "like": 184,
-        "old_like": 183,
+        "old_like": 184,
         "share": 65,
         "old_share": 65,
         "point": 379,
-        "old_point": 378
+        "old_point": 379
       }
     },
     {
@@ -113,11 +113,11 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 290,
+        "like": 291,
         "old_like": 290,
-        "share": 1633,
+        "share": 2730,
         "old_share": 1633,
-        "point": 5189,
+        "point": 8481,
         "old_point": 5189
       }
     },
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 533,
-        "old_like": 532,
-        "share": 1131,
-        "old_share": 1113,
-        "point": 3926,
-        "old_point": 3871
+        "like": 553,
+        "old_like": 533,
+        "share": 2028,
+        "old_share": 1131,
+        "point": 6637,
+        "old_point": 3926
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 155,
+        "like": 159,
         "old_like": 155,
-        "share": 1796,
-        "old_share": 1726,
-        "point": 5543,
-        "old_point": 5333
+        "share": 2345,
+        "old_share": 1796,
+        "point": 7194,
+        "old_point": 5543
       }
     },
     {
@@ -278,11 +278,11 @@
       "major": "เทคโนโลยีสภาปัตยกรรม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208533637584",
       "data": {
-        "like": 184,
+        "like": 185,
         "old_like": 184,
         "share": 147,
         "old_share": 147,
-        "point": 625,
+        "point": 626,
         "old_point": 625
       }
     },
@@ -293,11 +293,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
-        "like": 125,
+        "like": 126,
         "old_like": 125,
         "share": 135,
         "old_share": 135,
-        "point": 530,
+        "point": 531,
         "old_point": 530
       }
     },
