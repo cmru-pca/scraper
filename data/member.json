@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 00:47:28",
+  "updated_at": "2022-09-02 01:25:19",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 619,
+        "like": 620,
         "old_like": 619,
-        "share": 6221,
-        "old_share": 6161,
-        "point": 19282,
-        "old_point": 19102
+        "share": 6339,
+        "old_share": 6221,
+        "point": 19637,
+        "old_point": 19282
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 568,
+        "like": 570,
         "old_like": 568,
-        "share": 4365,
-        "old_share": 4364,
-        "point": 13663,
-        "old_point": 13660
+        "share": 4539,
+        "old_share": 4365,
+        "point": 14187,
+        "old_point": 13663
       }
     },
     {
