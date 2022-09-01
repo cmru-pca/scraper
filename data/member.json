@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 01:25:19",
+  "updated_at": "2022-09-02 01:50:10",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 620,
-        "old_like": 619,
-        "share": 6339,
-        "old_share": 6221,
-        "point": 19637,
-        "old_point": 19282
+        "old_like": 620,
+        "share": 6357,
+        "old_share": 6339,
+        "point": 19691,
+        "old_point": 19637
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 570,
-        "old_like": 568,
+        "old_like": 570,
         "share": 4539,
-        "old_share": 4365,
+        "old_share": 4539,
         "point": 14187,
-        "old_point": 13663
+        "old_point": 14187
       }
     },
     {
@@ -265,9 +265,9 @@
       "data": {
         "like": 172,
         "old_like": 172,
-        "share": 3373,
+        "share": 3479,
         "old_share": 3373,
-        "point": 10291,
+        "point": 10609,
         "old_point": 10291
       }
     },
