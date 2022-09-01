@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 18:16:56",
+  "updated_at": "2022-09-01 18:39:29",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 610,
-        "old_like": 609,
-        "share": 4212,
-        "old_share": 4107,
-        "point": 13246,
-        "old_point": 12930
+        "like": 611,
+        "old_like": 610,
+        "share": 4226,
+        "old_share": 4212,
+        "point": 13289,
+        "old_point": 13246
       }
     },
     {
@@ -98,11 +98,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208076970963",
       "data": {
-        "like": 184,
+        "like": 185,
         "old_like": 184,
         "share": 88,
         "old_share": 88,
-        "point": 448,
+        "point": 449,
         "old_point": 448
       }
     },
@@ -115,10 +115,10 @@
       "data": {
         "like": 296,
         "old_like": 296,
-        "share": 4228,
-        "old_share": 3573,
-        "point": 12980,
-        "old_point": 11015
+        "share": 4410,
+        "old_share": 4228,
+        "point": 13526,
+        "old_point": 12980
       }
     },
     {
@@ -144,11 +144,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208070304297",
       "data": {
         "like": 184,
-        "old_like": 183,
+        "old_like": 184,
         "share": 86,
         "old_share": 86,
         "point": 442,
-        "old_point": 441
+        "old_point": 442
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 558,
-        "old_like": 557,
-        "share": 3155,
-        "old_share": 2859,
-        "point": 10023,
-        "old_point": 9134
+        "like": 560,
+        "old_like": 558,
+        "share": 3248,
+        "old_share": 3155,
+        "point": 10304,
+        "old_point": 10023
       }
     },
     {
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 136,
+        "like": 137,
         "old_like": 136,
         "share": 32,
         "old_share": 32,
-        "point": 232,
+        "point": 233,
         "old_point": 232
       }
     },
@@ -265,10 +265,10 @@
       "data": {
         "like": 160,
         "old_like": 160,
-        "share": 2686,
-        "old_share": 2590,
-        "point": 8218,
-        "old_point": 7930
+        "share": 2699,
+        "old_share": 2686,
+        "point": 8257,
+        "old_point": 8218
       }
     },
     {
