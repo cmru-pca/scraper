@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-01 21:18:00",
+  "updated_at": "2022-09-01 21:41:27",
   "data": [
     {
       "id": "1",
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 615,
+        "like": 616,
         "old_like": 615,
-        "share": 4850,
-        "old_share": 4625,
-        "point": 15165,
-        "old_point": 14490
+        "share": 4952,
+        "old_share": 4850,
+        "point": 15472,
+        "old_point": 15165
       }
     },
     {
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 300,
-        "old_like": 298,
-        "share": 4783,
-        "old_share": 4748,
-        "point": 14649,
-        "old_point": 14542
+        "old_like": 300,
+        "share": 4784,
+        "old_share": 4783,
+        "point": 14652,
+        "old_point": 14649
       }
     },
     {
@@ -205,10 +205,10 @@
       "data": {
         "like": 562,
         "old_like": 562,
-        "share": 3580,
-        "old_share": 3429,
-        "point": 11302,
-        "old_point": 10849
+        "share": 3621,
+        "old_share": 3580,
+        "point": 11425,
+        "old_point": 11302
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 167,
-        "old_like": 166,
-        "share": 2959,
-        "old_share": 2850,
-        "point": 9044,
-        "old_point": 8716
+        "old_like": 167,
+        "share": 2960,
+        "old_share": 2959,
+        "point": 9047,
+        "old_point": 9044
       }
     },
     {
@@ -294,11 +294,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
         "like": 127,
-        "old_like": 126,
+        "old_like": 127,
         "share": 135,
         "old_share": 135,
         "point": 532,
-        "old_point": 531
+        "old_point": 532
       }
     },
     {
