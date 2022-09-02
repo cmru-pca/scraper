@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-03 00:00:29",
+  "updated_at": "2022-09-03 00:29:10",
   "data": [
     {
       "id": "1",
@@ -8,11 +8,11 @@
       "major": "คณิตศาสตร์และสถิติประยุกต์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204630304641",
       "data": {
-        "like": 201,
+        "like": 202,
         "old_like": 201,
         "share": 80,
         "old_share": 80,
-        "point": 441,
+        "point": 442,
         "old_point": 441
       }
     },
@@ -24,11 +24,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
         "like": 145,
-        "old_like": 144,
+        "old_like": 145,
         "share": 63,
         "old_share": 63,
         "point": 334,
-        "old_point": 333
+        "old_point": 334
       }
     },
     {
@@ -56,9 +56,9 @@
         "like": 625,
         "old_like": 625,
         "share": 7226,
-        "old_share": 7221,
+        "old_share": 7226,
         "point": 22303,
-        "old_point": 22288
+        "old_point": 22303
       }
     },
     {
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 314,
-        "old_like": 310,
+        "like": 315,
+        "old_like": 314,
         "share": 5417,
-        "old_share": 5269,
-        "point": 16565,
-        "old_point": 16117
+        "old_share": 5417,
+        "point": 16566,
+        "old_point": 16565
       }
     },
     {
@@ -206,9 +206,9 @@
         "like": 572,
         "old_like": 572,
         "share": 6128,
-        "old_share": 5869,
+        "old_share": 6128,
         "point": 18956,
-        "old_point": 18179
+        "old_point": 18956
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 189,
-        "old_like": 184,
-        "share": 6251,
-        "old_share": 5711,
-        "point": 18942,
-        "old_point": 17317
+        "like": 190,
+        "old_like": 189,
+        "share": 6378,
+        "old_share": 6251,
+        "point": 19324,
+        "old_point": 18942
       }
     },
     {
