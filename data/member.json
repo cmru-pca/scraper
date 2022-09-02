@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 22:44:48",
+  "updated_at": "2022-09-03 00:00:29",
   "data": [
     {
       "id": "1",
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 144,
+        "like": 145,
         "old_like": 144,
         "share": 63,
         "old_share": 63,
-        "point": 333,
+        "point": 334,
         "old_point": 333
       }
     },
@@ -55,9 +55,9 @@
       "data": {
         "like": 625,
         "old_like": 625,
-        "share": 7221,
+        "share": 7226,
         "old_share": 7221,
-        "point": 22288,
+        "point": 22303,
         "old_point": 22288
       }
     },
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 310,
+        "like": 314,
         "old_like": 310,
-        "share": 5269,
-        "old_share": 5137,
-        "point": 16117,
-        "old_point": 15721
+        "share": 5417,
+        "old_share": 5269,
+        "point": 16565,
+        "old_point": 16117
       }
     },
     {
@@ -205,9 +205,9 @@
       "data": {
         "like": 572,
         "old_like": 572,
-        "share": 5869,
+        "share": 6128,
         "old_share": 5869,
-        "point": 18179,
+        "point": 18956,
         "old_point": 18179
       }
     },
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 184,
-        "old_like": 183,
-        "share": 5711,
-        "old_share": 5620,
-        "point": 17317,
-        "old_point": 17043
+        "like": 189,
+        "old_like": 184,
+        "share": 6251,
+        "old_share": 5711,
+        "point": 18942,
+        "old_point": 17317
       }
     },
     {
