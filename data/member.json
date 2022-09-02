@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 22:20:26",
+  "updated_at": "2022-09-02 22:44:48",
   "data": [
     {
       "id": "1",
@@ -24,11 +24,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
         "like": 144,
-        "old_like": 143,
+        "old_like": 144,
         "share": 63,
         "old_share": 63,
         "point": 333,
-        "old_point": 332
+        "old_point": 333
       }
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 625,
-        "old_like": 624,
+        "old_like": 625,
         "share": 7221,
         "old_share": 7221,
         "point": 22288,
-        "old_point": 22287
+        "old_point": 22288
       }
     },
     {
@@ -115,9 +115,9 @@
       "data": {
         "like": 310,
         "old_like": 310,
-        "share": 5137,
+        "share": 5269,
         "old_share": 5137,
-        "point": 15721,
+        "point": 16117,
         "old_point": 15721
       }
     },
@@ -189,11 +189,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
         "like": 93,
-        "old_like": 92,
+        "old_like": 93,
         "share": 20,
         "old_share": 20,
         "point": 153,
-        "old_point": 152
+        "old_point": 153
       }
     },
     {
@@ -206,9 +206,9 @@
         "like": 572,
         "old_like": 572,
         "share": 5869,
-        "old_share": 5781,
+        "old_share": 5869,
         "point": 18179,
-        "old_point": 17915
+        "old_point": 18179
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 183,
-        "old_like": 182,
-        "share": 5620,
-        "old_share": 5487,
-        "point": 17043,
-        "old_point": 16643
+        "like": 184,
+        "old_like": 183,
+        "share": 5711,
+        "old_share": 5620,
+        "point": 17317,
+        "old_point": 17043
       }
     },
     {
