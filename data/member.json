@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 18:17:28",
+  "updated_at": "2022-09-02 18:39:24",
   "data": [
     {
       "id": "1",
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 142,
+        "like": 143,
         "old_like": 142,
         "share": 60,
         "old_share": 60,
-        "point": 322,
+        "point": 323,
         "old_point": 322
       }
     },
@@ -55,9 +55,9 @@
       "data": {
         "like": 624,
         "old_like": 624,
-        "share": 7206,
+        "share": 7218,
         "old_share": 7206,
-        "point": 22242,
+        "point": 22278,
         "old_point": 22242
       }
     },
@@ -114,11 +114,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
         "like": 310,
-        "old_like": 309,
+        "old_like": 310,
         "share": 5136,
-        "old_share": 5100,
+        "old_share": 5136,
         "point": 15718,
-        "old_point": 15609
+        "old_point": 15718
       }
     },
     {
@@ -203,11 +203,11 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 570,
+        "like": 571,
         "old_like": 570,
-        "share": 5287,
+        "share": 5304,
         "old_share": 5287,
-        "point": 16431,
+        "point": 16483,
         "old_point": 16431
       }
     },
@@ -248,11 +248,11 @@
       "major": "วิทยาศาสตร์และเทคโนโลยีสิ่งแวดล้อม",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208536970917",
       "data": {
-        "like": 139,
+        "like": 140,
         "old_like": 139,
         "share": 32,
         "old_share": 32,
-        "point": 235,
+        "point": 236,
         "old_point": 235
       }
     },
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 175,
-        "old_like": 174,
-        "share": 4666,
-        "old_share": 4302,
-        "point": 14173,
-        "old_point": 13080
+        "old_like": 175,
+        "share": 4802,
+        "old_share": 4666,
+        "point": 14581,
+        "old_point": 14173
       }
     },
     {
@@ -293,11 +293,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208516970919",
       "data": {
-        "like": 127,
+        "like": 128,
         "old_like": 127,
         "share": 135,
         "old_share": 135,
-        "point": 532,
+        "point": 533,
         "old_point": 532
       }
     },
