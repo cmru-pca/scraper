@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-03 02:38:02",
+  "updated_at": "2022-09-03 03:20:22",
   "data": [
     {
       "id": "1",
@@ -56,9 +56,9 @@
         "like": 625,
         "old_like": 625,
         "share": 7253,
-        "old_share": 7226,
+        "old_share": 7253,
         "point": 22384,
-        "old_point": 22303
+        "old_point": 22384
       }
     },
     {
@@ -115,10 +115,10 @@
       "data": {
         "like": 317,
         "old_like": 317,
-        "share": 5766,
-        "old_share": 5589,
-        "point": 17615,
-        "old_point": 17084
+        "share": 5768,
+        "old_share": 5766,
+        "point": 17621,
+        "old_point": 17615
       }
     },
     {
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 574,
+        "like": 573,
         "old_like": 574,
-        "share": 6873,
-        "old_share": 6859,
-        "point": 21193,
-        "old_point": 21151
+        "share": 7265,
+        "old_share": 6873,
+        "point": 22368,
+        "old_point": 21193
       }
     },
     {
@@ -265,10 +265,10 @@
       "data": {
         "like": 191,
         "old_like": 191,
-        "share": 6735,
-        "old_share": 6681,
-        "point": 20396,
-        "old_point": 20234
+        "share": 7203,
+        "old_share": 6735,
+        "point": 21800,
+        "old_point": 20396
       }
     },
     {
