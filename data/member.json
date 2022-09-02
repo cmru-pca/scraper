@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 12:50:43",
+  "updated_at": "2022-09-02 13:40:39",
   "data": [
     {
       "id": "1",
@@ -54,11 +54,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
         "like": 621,
-        "old_like": 619,
-        "share": 6818,
-        "old_share": 6693,
-        "point": 21075,
-        "old_point": 20698
+        "old_like": 621,
+        "share": 6850,
+        "old_share": 6818,
+        "point": 21171,
+        "old_point": 21075
       }
     },
     {
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 570,
-        "old_like": 569,
-        "share": 5037,
-        "old_share": 5012,
-        "point": 15681,
-        "old_point": 15605
+        "old_like": 570,
+        "share": 5082,
+        "old_share": 5037,
+        "point": 15816,
+        "old_point": 15681
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 173,
+        "like": 174,
         "old_like": 173,
-        "share": 3866,
-        "old_share": 3764,
-        "point": 11771,
-        "old_point": 11465
+        "share": 3941,
+        "old_share": 3866,
+        "point": 11997,
+        "old_point": 11771
       }
     },
     {
