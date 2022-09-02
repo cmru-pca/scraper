@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-03 04:16:03",
+  "updated_at": "2022-09-03 04:40:54",
   "data": [
     {
       "id": "1",
@@ -68,11 +68,11 @@
       "major": "เทคโนโลยีเว็บ",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208063637631",
       "data": {
-        "like": 222,
+        "like": 223,
         "old_like": 222,
         "share": 81,
         "old_share": 81,
-        "point": 465,
+        "point": 466,
         "old_point": 465
       }
     },
@@ -203,12 +203,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
-        "like": 574,
-        "old_like": 573,
-        "share": 7481,
-        "old_share": 7419,
-        "point": 23017,
-        "old_point": 22830
+        "like": 576,
+        "old_like": 574,
+        "share": 7527,
+        "old_share": 7481,
+        "point": 23157,
+        "old_point": 23017
       }
     },
     {
