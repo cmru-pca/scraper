@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 15:24:54",
+  "updated_at": "2022-09-02 15:48:25",
   "data": [
     {
       "id": "1",
@@ -55,10 +55,10 @@
       "data": {
         "like": 621,
         "old_like": 621,
-        "share": 6935,
-        "old_share": 6891,
-        "point": 21426,
-        "old_point": 21294
+        "share": 7025,
+        "old_share": 6935,
+        "point": 21696,
+        "old_point": 21426
       }
     },
     {
@@ -116,9 +116,9 @@
         "like": 309,
         "old_like": 309,
         "share": 5099,
-        "old_share": 5074,
+        "old_share": 5099,
         "point": 15606,
-        "old_point": 15531
+        "old_point": 15606
       }
     },
     {
@@ -205,10 +205,10 @@
       "data": {
         "like": 570,
         "old_like": 570,
-        "share": 5113,
-        "old_share": 5098,
-        "point": 15909,
-        "old_point": 15864
+        "share": 5155,
+        "old_share": 5113,
+        "point": 16035,
+        "old_point": 15909
       }
     },
     {
@@ -266,9 +266,9 @@
         "like": 174,
         "old_like": 174,
         "share": 4258,
-        "old_share": 4130,
+        "old_share": 4258,
         "point": 12948,
-        "old_point": 12564
+        "old_point": 12948
       }
     },
     {
