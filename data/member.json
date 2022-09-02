@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-03 01:23:58",
+  "updated_at": "2022-09-03 01:49:02",
   "data": [
     {
       "id": "1",
@@ -113,12 +113,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741298703628567",
       "data": {
-        "like": 315,
+        "like": 316,
         "old_like": 315,
-        "share": 5542,
-        "old_share": 5417,
-        "point": 16941,
-        "old_point": 16566
+        "share": 5582,
+        "old_share": 5542,
+        "point": 17062,
+        "old_point": 16941
       }
     },
     {
@@ -173,11 +173,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208086970962",
       "data": {
-        "like": 216,
+        "like": 217,
         "old_like": 216,
-        "share": 55,
+        "share": 56,
         "old_share": 55,
-        "point": 381,
+        "point": 385,
         "old_point": 381
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 574,
-        "old_like": 572,
-        "share": 6788,
-        "old_share": 6128,
-        "point": 20938,
-        "old_point": 18956
+        "old_like": 574,
+        "share": 6846,
+        "old_share": 6788,
+        "point": 21112,
+        "old_point": 20938
       }
     },
     {
@@ -264,11 +264,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
         "like": 191,
-        "old_like": 190,
-        "share": 6608,
-        "old_share": 6378,
-        "point": 20015,
-        "old_point": 19324
+        "old_like": 191,
+        "share": 6668,
+        "old_share": 6608,
+        "point": 20195,
+        "old_point": 20015
       }
     },
     {
@@ -323,11 +323,11 @@
       "major": "คหกรรมศาสตร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208513637586",
       "data": {
-        "like": 132,
+        "like": 133,
         "old_like": 132,
-        "share": 41,
+        "share": 42,
         "old_share": 41,
-        "point": 255,
+        "point": 259,
         "old_point": 255
       }
     }
