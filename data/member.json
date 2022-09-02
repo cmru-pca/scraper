@@ -1,5 +1,5 @@
 {
-  "updated_at": "2022-09-02 21:40:54",
+  "updated_at": "2022-09-02 22:20:26",
   "data": [
     {
       "id": "1",
@@ -23,11 +23,11 @@
       "major": "อาชีวอนามัยและความปลอดภัย",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741204633637974",
       "data": {
-        "like": 143,
+        "like": 144,
         "old_like": 143,
         "share": 63,
         "old_share": 63,
-        "point": 332,
+        "point": 333,
         "old_point": 332
       }
     },
@@ -53,12 +53,12 @@
       "major": "สาธารณสุขชุมชน",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208083637629",
       "data": {
-        "like": 624,
+        "like": 625,
         "old_like": 624,
         "share": 7221,
-        "old_share": 7218,
-        "point": 22287,
-        "old_point": 22278
+        "old_share": 7221,
+        "point": 22288,
+        "old_point": 22287
       }
     },
     {
@@ -188,11 +188,11 @@
       "major": "วิทยาการคอมพิวเตอร์",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208520304252",
       "data": {
-        "like": 92,
+        "like": 93,
         "old_like": 92,
         "share": 20,
         "old_share": 20,
-        "point": 152,
+        "point": 153,
         "old_point": 152
       }
     },
@@ -204,11 +204,11 @@
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208523637585",
       "data": {
         "like": 572,
-        "old_like": 570,
-        "share": 5781,
-        "old_share": 5687,
-        "point": 17915,
-        "old_point": 17631
+        "old_like": 572,
+        "share": 5869,
+        "old_share": 5781,
+        "point": 18179,
+        "old_point": 17915
       }
     },
     {
@@ -263,12 +263,12 @@
       "major": "ชีววิทยา",
       "url": "https://en-gb.facebook.com//photo.php?fbid=741208526970918",
       "data": {
-        "like": 182,
-        "old_like": 180,
-        "share": 5487,
-        "old_share": 5315,
-        "point": 16643,
-        "old_point": 16125
+        "like": 183,
+        "old_like": 182,
+        "share": 5620,
+        "old_share": 5487,
+        "point": 17043,
+        "old_point": 16643
       }
     },
     {
