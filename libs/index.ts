@@ -25,7 +25,7 @@ const main = async () => {
     // const historyFile: any = await readJsonFile("./data/2023/history.json")
 
     for (let i of dataFile["data"]) {
-        await page.goto(i["url"], { waitUntil: "networkidle2" })
+        await page.goto(i["url"])
         await page.screenshot({ type: "png", path: `./logs/${i["id"]}.png` })
 
         const pageContent: string = await page.content()
