@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: "Set Timezone"
+      - name: Set Timezone
         uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Asia/Bangkok"
