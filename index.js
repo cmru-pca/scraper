@@ -27,6 +27,10 @@ const main = async () => {
   for (let i of member_data["data"]) {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
+
+    page.screenshot(`${i["type"]}_${i["id"]}.png`)
+
+
     let raw_message = await page.evaluate(
       () => document.documentElement.outerHTML
     );
