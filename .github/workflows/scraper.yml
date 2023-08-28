@@ -2,12 +2,12 @@ name: Scraper Worker
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
 jobs:
   scraper:
     runs-on: ubuntu-latest
     env:
-      TZ: 'Asia/Bangkok'
+      TZ: "Asia/Bangkok"
     strategy:
       matrix:
         node-version:
@@ -17,12 +17,12 @@ jobs:
       - uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Asia/Bangkok"
-      
-      - name: 'Use Node.js ${{ matrix.node-version }}'
+
+      - name: "Use Node.js ${{ matrix.node-version }}"
         uses: actions/setup-node@v1
         with:
-          node-version: '${{ matrix.node-version }}'
-          
+          node-version: "${{ matrix.node-version }}"
+
       - run: npm ci
       - run: npm run build
       - run: npm run start
