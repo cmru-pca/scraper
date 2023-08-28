@@ -17,7 +17,7 @@ const writeJsonFile = async (fileName: string, data: any): Promise<unknown> => {
 }
 
 const main = async () => {
-    const browser = await puppeteer.launch({ headless: true })
+    const browser = await puppeteer.launch({ headless: "new" })
     const page = await browser.newPage()
 
     const dataFile: DataFileType = await readJsonFile("./data/2023/data.json")
@@ -63,4 +63,8 @@ const main = async () => {
     await writeJsonFile("./data/2023/data.json", dataFile)
 }
 
-main()
+try {
+    main()
+} catch (error) {
+    console.error(error)
+}
