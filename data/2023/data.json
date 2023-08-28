@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "GS01",
+      "name": "Thanwimon Auppaman",
+      "major": "INFORMATION TECHNOLOGY",
+      "url": "https://www.facebook.com/photo.php?fbid=981506546274447",
+      "like": {
+        "value": 0,
+        "data": []
+      },
+      "share": {
+        "value": 0,
+        "data": []
+      },
+      "point": {
+        "value": 0,
+        "data": []
+      }
+    }
+  ],
+  "updatedAt": ""
+}
