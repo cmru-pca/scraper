@@ -31,6 +31,16 @@ const main = async () => {
       () => document.documentElement.outerHTML
     );
 
+    console.log(
+      raw_message.match(
+        /"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i
+      )
+    );
+
+    console.log(
+      raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)
+    );
+
     let like = Number(
       raw_message.match(
         /"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i
