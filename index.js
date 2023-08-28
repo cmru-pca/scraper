@@ -28,7 +28,7 @@ const main = async () => {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
 
-    page.screenshot(`${i["type"]}_${i["id"]}.png`)
+    await page.screenshot(`${i["type"]}_${i["id"]}.png`)
 
 
     let raw_message = await page.evaluate(
@@ -45,28 +45,28 @@ const main = async () => {
       raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)
     );
 
-    let like = Number(
-      raw_message.match(
-        /"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i
-      )[1]
-    );
-    let share = Number(
-      raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)[1]
-    );
+    // let like = Number(
+    //   raw_message.match(
+    //     /"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i
+    //   )[1]
+    // );
+    // let share = Number(
+    //   raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)[1]
+    // );
 
-    let point = share * 5 + like;
+    // let point = share * 5 + like;
 
-    i["data"]["old_like"] = i["data"]["like"];
-    i["data"]["old_share"] = i["data"]["share"];
-    i["data"]["old_point"] = i["data"]["point"];
+    // i["data"]["old_like"] = i["data"]["like"];
+    // i["data"]["old_share"] = i["data"]["share"];
+    // i["data"]["old_point"] = i["data"]["point"];
 
-    i["data"]["like"] = like;
-    i["data"]["share"] = share;
-    i["data"]["point"] = point;
+    // i["data"]["like"] = like;
+    // i["data"]["share"] = share;
+    // i["data"]["point"] = point;
 
-    console.log(
-      `[${i["type"]}${i["id"]}] Point: ${point} Like: ${like} Share: ${share}`
-    );
+    // console.log(
+    //   `[${i["type"]}${i["id"]}] Point: ${point} Like: ${like} Share: ${share}`
+    // );
   }
 
   member_data["updated_at"] = String(
