@@ -3,18 +3,16 @@ on:
   schedule:
     - cron: '*/30 * * * *'
 jobs:
-  build:
+  scraper:
     runs-on: ubuntu-latest
+    env:
+      TZ: 'Asia/Bangkok'
     strategy:
       matrix:
         node-version:
           - 18.x
     steps:
       - uses: actions/checkout@v2
-      - name: Set TimeZone
-        uses: szenius/set-timezone@v1.0
-        with:
-          timezoneLinux: Asia/Bangkok
       - name: 'Use Node.js ${{ matrix.node-version }}'
         uses: actions/setup-node@v3
         with:
