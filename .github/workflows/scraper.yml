@@ -19,7 +19,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '${{ matrix.node-version }}'
-
+          
+      - run: npm ci
       - run: npm run build
       - run: npm run start
       - name: Commit and push if data changed
