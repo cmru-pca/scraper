@@ -1,0 +1,32 @@
+name: Scraper Worker
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version:
+          - 18.x
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set TimeZone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: Asia/Bangkok
+      - name: 'Use Node.js ${{ matrix.node-version }}'
+        uses: actions/setup-node@v3
+        with:
+          node-version: '${{ matrix.node-version }}'
+      - run: npm ci
+      - run: npm run build
+      - run: npm run start
+      - name: Commit and push if data changed
+        run: |-
+          git diff
+          git config --global user.email "sctnightcore@users.noreply.github.com"
+          git config --global user.name "sctnightcore"
+          git add .
+          git commit -m "Refresh Scraper Data" || exit 0
+          git push
