@@ -17,7 +17,8 @@ export type DataFileType = {
             data: number[]
         }
     }[]
-    updatedAt: Date
+    labels: string[],
+    updatedAt: string
 }
 
 export type HistoryFileType = {

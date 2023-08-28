@@ -3,6 +3,7 @@ import * as fs from "fs/promises"
 import puppeteer from "puppeteer"
 
 import { DataFileType } from "./types";
+import { exit } from "process";
 
 const delay = (ms: number) => {
     return new Promise(resolve => setTimeout(resolve, ms));
@@ -24,10 +25,11 @@ const main = async () => {
 
     // const historyFile: any = await readJsonFile("./data/2023/history.json")
 
-    for (let i of dataFile["data"]) {
-        await page.goto(i["url"])
-        await page.screenshot({ type: "png", path: `./logs/${i["id"]}.png` })
+    const currentTime = new Date().toISOString()
 
+    for (let i of dataFile["data"]) {
+        await page.goto(i["url"], { waitUntil: "networkidle2" })
+        
         const pageContent: string = await page.content()
 
         // Find Like
@@ -44,23 +46,33 @@ const main = async () => {
         let shareValue: number = Number(shareEl[1])
         let pointValue: number = (shareValue * 5) + likeValue
 
+
+        i["like"]["value"] = 0
+        i["like"]["data"] = []
+
         i["like"]["value"] = likeValue
         i["like"]["data"].push(likeValue)
+        
+        i["share"]["value"] = 0
+        i["share"]["data"] = []
 
         i["share"]["value"] = shareValue
         i["share"]["data"].push(shareValue)
+
+        i["point"]["value"] = 0
+        i["point"]["data"] = []
 
         i["point"]["value"] = pointValue
         i["point"]["data"].push(pointValue)
 
         console.log(`[${i["id"]}] Point: ${pointValue} Like: ${likeValue} Share: ${shareValue}`);
-
-        await delay(3500)
     }
 
-    dataFile["updatedAt"] = new Date()
+    dataFile["labels"].push(currentTime)
+    dataFile["updatedAt"] = currentTime
 
     await writeJsonFile("./data/2023/data.json", dataFile)
+    exit()
 }
 
 try {
