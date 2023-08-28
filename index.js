@@ -11,7 +11,11 @@ const read_json = async () => {
 };
 
 const write_json = async (data) => {
-  return fs.writeFile("./data/member.json", JSON.stringify(data, null, 2), "utf-8");
+  return fs.writeFile(
+    "./data/member.json",
+    JSON.stringify(data, null, 2),
+    "utf-8"
+  );
 };
 
 const main = async () => {
@@ -23,10 +27,18 @@ const main = async () => {
   for (let i of member_data["data"]) {
     await page.goto(i["url"], { waitUntil: "networkidle2" });
 
-    let raw_message = await page.evaluate(() => document.documentElement.outerHTML);
+    let raw_message = await page.evaluate(
+      () => document.documentElement.outerHTML
+    );
 
-    let like = Number(raw_message.match(/"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i)[1]);
-    let share = Number(raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)[1]);
+    let like = Number(
+      raw_message.match(
+        /"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/i
+      )[1]
+    );
+    let share = Number(
+      raw_message.match(/"share_count":{"count":(\d+),"is_empty":false}/i)[1]
+    );
 
     let point = share * 5 + like;
 
@@ -38,11 +50,16 @@ const main = async () => {
     i["data"]["share"] = share;
     i["data"]["point"] = point;
 
-    console.log(`[${i["type"]}${i["id"]}] Point: ${point} Like: ${like} Share: ${share}`);
+    console.log(
+      `[${i["type"]}${i["id"]}] Point: ${point} Like: ${like} Share: ${share}`
+    );
   }
 
   member_data["updated_at"] = String(
-    new Date(new Date().getTime() - new Date().getTimezoneOffset() * 60 * 1000).toJSON().slice(0, 19).replace("T", " ")
+    new Date(new Date().getTime() - new Date().getTimezoneOffset() * 60 * 1000)
+      .toJSON()
+      .slice(0, 19)
+      .replace("T", " ")
   );
 
   await write_json(member_data);
