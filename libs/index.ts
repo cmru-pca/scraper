@@ -74,6 +74,7 @@ const main = async () => {
     dataFile["updatedAt"] = currentTime
 
     await writeJsonFile("./data/2023/data.json", dataFile)
+    exit()
 }
 
 try {
