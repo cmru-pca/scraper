@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Bangkok"
-      FACEBOOK_COOKIES: '${{ secrets.MY_SECRET_TOKEN }}'
+      FACEBOOK_COOKIES: "${{ secrets.FACEBOOK_COOKIES }}"
     strategy:
       matrix:
         node-version:
