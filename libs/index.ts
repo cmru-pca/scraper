@@ -1,6 +1,7 @@
 import "dotenv/config"
 import * as fs from "fs/promises"
-import puppeteer from "puppeteer"
+import puppeteer from "puppeteer-extra"
+import stealth from "puppeteer-extra-plugin-stealth"
 
 import { DataFileType } from "./types";
 import { exit } from "process";
@@ -18,12 +19,15 @@ const writeJsonFile = async (fileName: string, data: any): Promise<unknown> => {
 }
 
 const main = async () => {
+
+    puppeteer.use(stealth())
+
     const browser = await puppeteer.launch({ headless: "new" })
     const page = await browser.newPage()
 
-    if (process.env.FACEBOOK_COOKIES) {
-        await page.setCookie(...JSON.parse(process.env.FACEBOOK_COOKIES))
-    }
+    // if (process.env.FACEBOOK_COOKIES) {
+    //     await page.setCookie(...JSON.parse(process.env.FACEBOOK_COOKIES))
+    // }
 
     const dataFile: DataFileType = await readJsonFile("./data/2023/data.json")
 
@@ -50,7 +54,7 @@ const main = async () => {
 
             i["point"]["value"] = i["point"]["value"]
             i["point"]["data"].push(i["point"]["value"])
-            await fs.writeFile(`./logs/${i["id"]}.log`, pageContent)
+            await fs.writeFile(`./logs/${i["id"]}.html`, pageContent)
             continue
         }
 
@@ -68,12 +72,15 @@ const main = async () => {
         i["point"]["data"].push(pointValue)
 
         console.log(`[${i["id"]}] Point: ${pointValue} Like: ${likeValue} Share: ${shareValue}`);
+
+        await delay((Math.floor(Math.random() * 10) + 1) * 1000)
     }
 
     dataFile["labels"].push(currentTime)
     dataFile["updatedAt"] = currentTime
 
     await writeJsonFile("./data/2023/data.json", dataFile)
+    await page.close()
     exit()
 }
 
