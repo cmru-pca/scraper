@@ -1,3 +1,11 @@
+declare global {
+    namespace NodeJS {
+        interface ProcessEnv {
+            FACEBOOK_COOKIES: string
+        }
+    }
+}
+
 export type DataFileType = {
     data: {
         id: string,
@@ -24,3 +32,5 @@ export type DataFileType = {
 export type HistoryFileType = {
     updatedAt: Date
 }
+
+

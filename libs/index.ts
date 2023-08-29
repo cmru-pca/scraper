@@ -18,12 +18,14 @@ const writeJsonFile = async (fileName: string, data: any): Promise<unknown> => {
 }
 
 const main = async () => {
-    const browser = await puppeteer.launch({ headless: "new" })
+    const browser = await puppeteer.launch({ headless: false })
     const page = await browser.newPage()
 
-    const dataFile: DataFileType = await readJsonFile("./data/2023/data.json")
+    if (process.env.FACEBOOK_COOKIES) {
+        await page.setCookie(...JSON.parse(process.env.FACEBOOK_COOKIES))
+    }
 
-    // const historyFile: any = await readJsonFile("./data/2023/history.json")
+    const dataFile: DataFileType = await readJsonFile("./data/2023/data.json")
 
     const currentTime = new Date().toISOString()
 
@@ -72,7 +74,6 @@ const main = async () => {
     dataFile["updatedAt"] = currentTime
 
     await writeJsonFile("./data/2023/data.json", dataFile)
-    exit()
 }
 
 try {
