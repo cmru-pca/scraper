@@ -18,7 +18,7 @@ const writeJsonFile = async (fileName: string, data: any): Promise<unknown> => {
 }
 
 const main = async () => {
-    const browser = await puppeteer.launch({ headless: false })
+    const browser = await puppeteer.launch({ headless: "new" })
     const page = await browser.newPage()
 
     if (process.env.FACEBOOK_COOKIES) {
