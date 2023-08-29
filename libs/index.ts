@@ -48,6 +48,7 @@ const main = async () => {
 
             i["point"]["value"] = i["point"]["value"]
             i["point"]["data"].push(i["point"]["value"])
+            await fs.writeFile(`./logs/${i["id"]}.log`, pageContent)
             continue
         }
 
