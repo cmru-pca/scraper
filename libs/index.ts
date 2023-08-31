@@ -39,9 +39,9 @@ const main = async () => {
         const pageContent: string = await page.content()
 
         // Find Like
-        let likeEl = pageContent.match(/"share_count":{"count":(\d+)/)
+        let likeEl = pageContent.match(/"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/)
         // Find Share
-        let shareEl = pageContent.match(/"cannot_see_top_custom_reactions":{"reactors":{"count":(\d+)}/)
+        let shareEl = pageContent.match(/"share_count":{"count":(\d+)/)
 
         // Skip if cannot find it
         if (!likeEl || !shareEl) {
