@@ -46,14 +46,10 @@ const main = async () => {
         // Skip if cannot find it
         if (!likeEl || !shareEl) {
             // replace new data with old data
-            i["like"]["value"] = i["like"]["value"]
             i["like"]["data"].push(i["like"]["value"])
-
-            i["share"]["value"] = i["share"]["value"]
             i["share"]["data"].push(i["share"]["value"])
-
-            i["point"]["value"] = i["point"]["value"]
             i["point"]["data"].push(i["point"]["value"])
+            // cache html body
             await fs.writeFile(`./logs/${i["id"]}.html`, pageContent)
             continue
         }
