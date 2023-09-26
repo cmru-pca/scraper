@@ -5,6 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "build": "tsc",
+    "start:tsm": "tsm ./libs/index.ts",
     "start": "node dist/index.js",
     "dev": "nodemon libs/index.ts"
   },
@@ -19,6 +20,7 @@
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
   "devDependencies": {
+    "tsm": "^2.3.0",
     "@types/node": "^20.4.1",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1",
