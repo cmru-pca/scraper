@@ -6,34 +6,34 @@ on:
 jobs:
   scraper:
     runs-on: ubuntu-latest
-    env:
-      TZ: "Asia/Bangkok"
-      FACEBOOK_COOKIES: "${{ secrets.FACEBOOK_COOKIES }}"
-    strategy:
-      matrix:
-        node-version:
-          - 16.x
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Set Timezone
-        uses: szenius/set-timezone@v1.2
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          timezoneLinux: "Asia/Bangkok"
+            node-version: 16
 
-      - name: "Use Node.js ${{ matrix.node-version }}"
-        uses: actions/setup-node@v1
-        with:
-          node-version: "${{ matrix.node-version }}"
+      - name: Install Dependencies
+        run: npm i
 
-      - run: npm ci
-      - run: npm run build
-      - run: npm run start
-      - name: Commit and push if data changed
-        run: |-
-          git diff
-          git config --global user.email "sctnightcore@users.noreply.github.com"
-          git config --global user.name "sctnightcore"
-          git add .
+      - name: Clone Data
+        run: |
+          git clone -b data --single-branch https://github.com/cmru-pca/scraper.git data
+          mv data/data/** data && rm -rf data/data/
+
+      - name: Run Script
+        run: npm run start:tsm
+
+      - name: Update 'data' branch
+        run: |
+          git checkout --orphan data
+          git ls-files | grep -v '^data/' | xargs git rm -rf
+          rm -rf node_modules/
+          mv data/** .
+          git add . && git diff
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git commit -m "Refresh Scraper Data" || exit 0
-          git push
+          git push --set-upstream origin data -f
